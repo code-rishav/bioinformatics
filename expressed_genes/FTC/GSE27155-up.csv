@@ -1,0 +1,58 @@
+,Unnamed: 0,ID,adj.P.Val,P.Value,t,B,logFC,Gene.symbol,Gene.title,Gene.ID
+27,30,208394_x_at,0.000434,6.17e-07,7.35,6.2361769,0.711,ESM1,endothelial cell specific molecule 1,11082
+31,35,203421_at,0.000758,1.22e-06,7.0,5.5998388,0.626,TP53I11,tumor protein p53 inducible protein 11,9537
+41,47,209301_at,0.00205,4.44e-06,6.36,4.3958428,0.647,CA2,carbonic anhydrase 2,760
+46,54,213112_s_at,0.00211,5.26e-06,6.28,4.2355928,0.589,SQSTM1,sequestosome 1,8878
+52,71,204105_s_at,0.00321,1.04e-05,5.96,3.5959973,0.587,NRCAM,neuronal cell adhesion molecule,4897
+65,96,203215_s_at,0.00557,2.43e-05,5.56,2.7932265,0.558,MYO6,myosin VI,4646
+67,98,212147_at,0.00571,2.54e-05,5.54,2.7505879,0.595,SMG5,"SMG5, nonsense mediated mRNA decay factor",23381
+78,129,205309_at,0.01,5.85e-05,5.15,1.958755,0.55,SMPDL3B,sphingomyelin phosphodiesterase acid like 3B,27293
+88,159,202007_at,0.0135,9.69e-05,4.93,1.4792359,0.65,NID1,nidogen 1,4811
+91,181,212013_at,0.0151,0.000124,4.82,1.2459655,0.83,PXDN,peroxidasin,7837
+92,188,210480_s_at,0.0167,0.000142,4.76,1.1162853,0.606,MYO6,myosin VI,4646
+94,196,218169_at,0.0176,0.000155,4.72,1.030686,0.557,VAC14,"Vac14, PIKFYVE complex component",55697
+100,241,219664_s_at,0.0273,0.000296,4.43,0.4168524,0.557,DECR2,"2,4-dienoyl-CoA reductase 2, peroxisomal",26063
+101,248,204170_s_at,0.0275,0.000307,4.41,0.3819251,0.646,CKS2,CDC28 protein kinase regulatory subunit 2,1164
+104,269,209502_s_at,0.0303,0.000367,4.33,0.2125783,0.516,BAIAP2,BAI1 associated protein 2,10458
+110,299,205016_at,0.036,0.000485,4.21,-0.0509459,0.595,TGFA,transforming growth factor alpha,7039
+114,328,211981_at,0.0415,0.000613,4.11,-0.2724749,0.501,COL4A1,collagen type IV alpha 1 chain,1282
+116,341,212012_at,0.0429,0.000659,4.08,-0.3414122,0.71,PXDN,peroxidasin,7837
+117,360,213324_at,0.0453,0.000734,4.03,-0.4437572,0.542,SRC,"SRC proto-oncogene, non-receptor tyrosine kinase",6714
+118,362,218510_x_at,0.0454,0.00074,4.02,-0.4513974,0.526,FAM134B,family with sequence similarity 134 member B,54463
+121,384,212529_at,0.0489,0.00085,3.96,-0.5820935,0.518,LSM12,LSM12 homolog,124801
+127,439,212235_at,0.0567,0.00112,3.84,-0.8433258,0.634,PLXND1,plexin D1,23129
+131,462,221577_x_at,0.0605,0.00126,3.79,-0.952182,0.807,GDF15,growth differentiation factor 15,9518
+132,476,203441_s_at,0.0621,0.00133,3.77,-1.0067203,0.526,CDH2,cadherin 2,1000
+133,483,205860_x_at,0.0633,0.00137,3.75,-1.0366557,0.642,FOLH1B///FOLH1,folate hydrolase 1B///folate hydrolase (prostate-specific membrane antigen) 1,219595///2346
+135,508,219408_at,0.0709,0.00162,3.68,-1.1910978,0.574,PRMT7,protein arginine methyltransferase 7,54496
+137,511,204726_at,0.0728,0.00167,3.67,-1.2221548,0.509,CDH13,cadherin 13,1012
+138,515,211343_s_at,0.0738,0.00171,3.66,-1.2426553,0.755,COL13A1,collagen type XIII alpha 1 chain,1305
+144,596,204503_at,0.0879,0.00235,3.51,-1.5442371,0.55,EVPL,envoplakin,2125
+147,621,221810_at,0.0919,0.00257,3.48,-1.6247487,0.851,RAB15,"RAB15, member RAS oncogene family",376267
+148,623,203180_at,0.0927,0.0026,3.47,-1.6356249,0.67,ALDH1A3,aldehyde dehydrogenase 1 family member A3,220
+149,659,206827_s_at,0.098,0.0029,3.42,-1.7405578,0.52,TRPV6,transient receptor potential cation channel subfamily V member 6,55503
+154,704,202589_at,0.106,0.00337,3.35,-1.8804815,0.564,TYMS,thymidylate synthetase,7298
+167,842,205902_at,0.124,0.00468,3.21,-2.1865478,0.591,KCNN3,potassium calcium-activated channel subfamily N member 3,3782
+169,895,208161_s_at,0.131,0.00527,3.15,-2.2986012,0.966,ABCC3,ATP binding cassette subfamily C member 3,8714
+173,922,204483_at,0.132,0.00548,3.14,-2.3342747,0.817,ENO3,enolase 3,2027
+174,960,219628_at,0.137,0.0059,3.1,-2.4034796,0.516,ZMAT3,zinc finger matrin-type 3,64393
+176,1041,205640_at,0.146,0.00684,3.04,-2.54103,0.536,ALDH3B1,aldehyde dehydrogenase 3 family member B1,221
+177,1046,206023_at,0.147,0.00689,3.03,-2.5464695,0.872,NMU,neuromedin U,10874
+180,1120,219331_s_at,0.154,0.00776,2.98,-2.6570574,0.543,KLHDC8A,kelch domain containing 8A,55220
+182,1175,217818_s_at,0.159,0.00839,2.94,-2.7292555,0.532,ARPC4,actin related protein 2/3 complex subunit 4,10093
+185,1266,203130_s_at,0.168,0.00956,2.89,-2.8495285,0.715,KIF5C,kinesin family member 5C,3800
+186,1274,211603_s_at,0.17,0.00975,2.88,-2.8684934,0.506,ETV4,ETS variant 4,2118
+188,1296,203440_at,0.172,0.01,2.86,-2.8916888,0.933,CDH2,cadherin 2,1000
+189,1315,203717_at,0.174,0.0103,2.85,-2.9174013,0.654,DPP4,dipeptidyl peptidase 4,1803
+196,1477,209360_s_at,0.193,0.0128,2.75,-3.1172445,0.801,LOC101928269///LOC100506403///RUNX1,uncharacterized LOC101928269///uncharacterized LOC100506403///runt related transcription factor 1,101928269///100506403///861
+197,1488,209641_s_at,0.193,0.0129,2.75,-3.1273614,0.767,ABCC3,ATP binding cassette subfamily C member 3,8714
+202,1707,207493_x_at,0.213,0.0163,2.64,-3.3404705,0.598,SSX2B///SSX2,SSX family member 2B///SSX family member 2,727837///6757
+204,1887,220630_s_at,0.231,0.0196,2.55,-3.5057404,0.77,CHIA,"chitinase, acidic",27159
+207,1924,221009_s_at,0.235,0.0203,2.54,-3.5384331,0.696,ANGPTL4,angiopoietin like 4,51129
+212,2184,211679_x_at,0.258,0.0253,2.43,-3.7365482,0.548,GABBR2,gamma-aminobutyric acid type B receptor subunit 2,9568
+214,2438,209990_s_at,0.281,0.0308,2.34,-3.91185,0.599,GABBR2,gamma-aminobutyric acid type B receptor subunit 2,9568
+215,2455,211478_s_at,0.284,0.0313,2.33,-3.9261683,0.526,DPP4,dipeptidyl peptidase 4,1803
+218,2540,212850_s_at,0.29,0.0331,2.3,-3.976436,0.6,LRP4,LDL receptor related protein 4,4038
+219,2596,210390_s_at,0.294,0.0342,2.28,-4.0071824,0.512,CCL15-CCL14///CCL15,CCL15-CCL14 readthrough (NMD candidate)///C-C motif chemokine ligand 15,348249///6359
+220,2953,218856_at,0.319,0.0422,2.18,-4.1925744,0.751,TNFRSF21,TNF receptor superfamily member 21,27242
+223,3031,217077_s_at,0.325,0.0443,2.16,-4.2348484,0.51,GABBR2,gamma-aminobutyric acid type B receptor subunit 2,9568

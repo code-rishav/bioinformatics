@@ -1,0 +1,997 @@
+,Unnamed: 0,ID,adj.P.Val,P.Value,t,B,logFC,Gene.symbol,Gene.title,Gene.ID
+10,10,39_7_4,1.61e-05,1.42e-08,11.1993242,9.94885,1.9772383,P4HA2,"procollagen-proline, 2-oxoglutarate 4-dioxygenase (proline 4-hydroxylase), alpha polypeptide II",8974
+18,18,46_8_6,0.000116,1.77e-07,9.213117,7.61482,1.7639857,EML4,echinoderm microtubule associated protein like 4,27436
+33,33,40_13_2,0.000282,7.69e-07,8.1838819,6.21788,1.6500916,FLJ10986,hypothetical protein FLJ10986,55277
+37,37,15_20_3,0.000429,1.31e-06,7.8304521,5.70521,1.7633464,XPR1,xenotropic and polytropic retrovirus receptor,9213
+42,42,8_31_4,0.000472,1.63e-06,7.6903384,5.4971,2.6130803,HPR,haptoglobin-related protein,3250
+44,44,23_24_6,0.000507,1.84e-06,7.6093836,5.37557,2.4646394,PSD3,pleckstrin and Sec7 domain containing 3,23362
+46,46,9_28_3,0.000569,2.16e-06,7.5086249,5.223,1.7558163,GAL3ST1,galactose-3-O-sulfotransferase 1,9514
+53,53,8_20_4,0.00064,2.82e-06,7.3404439,4.96506,1.5375963,ITGBL1,"integrin, beta-like 1 (with EGF-like repeat domains)",9358
+54,54,1_15_1,0.00064,2.82e-06,7.3401274,4.96458,2.6007642,FLJ10986,hypothetical protein FLJ10986,55277
+58,58,23_9_6,0.000676,3.19e-06,7.2617912,4.84302,1.9862837,TIAM1,T-cell lymphoma invasion and metastasis 1,7074
+59,59,35_28_3,0.000677,3.25e-06,7.2501505,4.82488,2.4400052,NPC2,"Niemann-Pick disease, type C2",10577
+61,61,37_26_4,0.000778,3.87e-06,7.1436249,4.65795,4.3453328,SCEL,sciellin,8796
+63,63,50_30_1,0.000796,4.08e-06,7.1103817,4.60551,1.4608537,FAS,"Fas (TNF receptor superfamily, member 6)",355
+64,64,22_9_1,0.000808,4.21e-06,7.091354,4.57543,2.0139575,PCK1,phosphoenolpyruvate carboxykinase 1 (soluble),5105
+68,68,31_8_6,0.000837,4.63e-06,7.0332243,4.48318,1.7651685,EXPH5,exophilin 5,23086
+70,70,52_22_6,0.000901,5.12e-06,6.9706631,4.38334,1.336123,MTHFD1L,methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 1-like,25902
+73,73,49_21_7,0.000969,5.74e-06,6.9016289,4.27249,1.3402468,PDZD8,PDZ domain containing 8,118987
+77,77,41_15_7,0.00112,6.99e-06,6.7831794,4.08065,1.5133367,SFN,stratifin,2810
+80,80,25_3_8,0.00136,8.85e-06,6.6427457,3.85049,2.1402368,FLJ10986,hypothetical protein FLJ10986,55277
+83,83,7_20_2,0.00146,9.88e-06,6.5774548,3.74247,2.718823,SLC1A5,"solute carrier family 1 (neutral amino acid transporter), member 5",6510
+84,84,2_18_6,0.00146,9.97e-06,6.5721506,3.73367,2.9567467,CAMK2N1,calcium/calmodulin-dependent protein kinase II inhibitor 1,55450
+87,87,57_10_7,0.0015,1.06e-05,6.5358245,3.67327,1.543484,FLJ42258///CCND1,FLJ42258 protein///cyclin D1,440049///595
+88,88,28_8_6,0.00154,1.1e-05,6.5135374,3.63611,2.1160836,ASF1B,ASF1 anti-silencing function 1 homolog B (S. cerevisiae),55723
+89,89,1_26_6,0.00154,1.11e-05,6.5086877,3.62802,1.6746408,RAI14,retinoic acid induced 14,26064
+90,90,20_4_2,0.00165,1.2e-05,6.4609793,3.5482,2.3794904,MALL,"mal, T-cell differentiation protein-like",7851
+93,93,10_15_1,0.0019,1.44e-05,6.3580221,3.37478,1.6682082,CDK6,cyclin-dependent kinase 6,1021
+94,94,41_11_1,0.0019,1.45e-05,6.3538198,3.36767,2.9884282,APOC1,apolipoprotein C-I,341
+96,96,35_13_8,0.00193,1.5e-05,6.3330154,3.33242,1.395044,CDH13,"cadherin 13, H-cadherin (heart)",1012
+97,97,36_28_2,0.00199,1.56e-05,6.3099521,3.29327,2.7791608,OLR1,oxidized low density lipoprotein (lectin-like) receptor 1,4973
+98,98,58_15_1,0.00205,1.63e-05,6.2866278,3.2536,1.4201504,CLC,Charcot-Leyden crystal protein,1178
+100,100,28_7_7,0.00209,1.69e-05,6.2636756,3.21448,1.0658921,SULF1,sulfatase 1,23213
+105,105,14_18_4,0.00246,2.09e-05,6.1436035,3.00855,2.2461492,STX4,syntaxin 4,6810
+113,113,34_21_1,0.00264,2.43e-05,6.0577416,2.85999,3.3681996,ZFP90///CDH3,"zinc finger protein 90 homolog (mouse)///cadherin 3, type 1, P-cadherin (placental)",146198///1001
+116,116,37_16_6,0.00268,2.51e-05,6.0399265,2.82903,1.596805,SERINC2,serine incorporator 2,347735
+119,119,36_12_1,0.00283,2.72e-05,5.9941045,2.74918,1.0620587,PRKAR1B,"protein kinase, cAMP-dependent, regulatory, type I, beta",5575
+128,128,15_22_5,0.00316,3.26e-05,5.8923042,2.57068,1.0062299,ST6GALNAC1,"ST6 (alpha-N-acetyl-neuraminyl-2,3-beta-galactosyl-1,3)-N-acetylgalactosaminide alpha-2,6-sialyltransferase 1",55808
+130,130,1_31_6,0.00348,3.7e-05,5.8227452,2.44784,1.0583622,MAP4K4,mitogen-activated protein kinase kinase kinase kinase 4,9448
+131,131,9_7_4,0.00348,3.7e-05,5.8214008,2.44546,1.8446533,MDK,midkine (neurite growth-promoting factor 2),4192
+133,133,55_28_1,0.00348,3.78e-05,5.8106854,2.42647,1.1641169,GPX1,glutathione peroxidase 1,2876
+135,135,34_8_3,0.00348,3.8e-05,5.8077572,2.42128,1.1733173,DLEU1,"deleted in lymphocytic leukemia, 1",10301
+137,137,54_27_4,0.0037,4.09e-05,5.7661784,2.34743,1.7721835,IMPG1,interphotoreceptor matrix proteoglycan 1,3617
+139,139,24_21_2,0.00381,4.28e-05,5.7418627,2.30413,1.6174892,ETV5,ets variant gene 5 (ets-related molecule),2119
+140,140,16_4_5,0.00384,4.34e-05,5.7335844,2.28937,1.2600473,HSHUR7SEQ///SERPINB13,"UV-B repressed sequence, HUR 7///serpin peptidase inhibitor, clade B (ovalbumin), member 13",54735///5275
+146,146,54_20_1,0.00386,4.59e-05,5.7025991,2.23403,4.6088,MCAM///FN1,melanoma cell adhesion molecule///fibronectin 1,4162///2335
+154,154,35_18_5,0.00443,5.5e-05,5.6034645,2.05606,1.4230445,MYEF2,myelin expression factor 2,50804
+155,155,18_20_7,0.00443,5.53e-05,5.6002807,2.05032,1.4247529,IGF2BP2,insulin-like growth factor 2 mRNA binding protein 2,10644
+160,160,56_31_1,0.005,6.48e-05,5.5146013,1.89536,1.3591964,ALDH3B1,"aldehyde dehydrogenase 3 family, member B1",221
+161,161,42_21_3,0.005,6.53e-05,5.5100649,1.88712,1.3718151,C17orf81///CLDN7,chromosome 17 open reading frame 81///claudin 7,23587///1366
+167,167,14_9_1,0.00504,6.82e-05,5.4867857,1.84483,2.0350102,PLAUR,"plasminogen activator, urokinase receptor",5329
+170,170,20_21_5,0.00523,7.21e-05,5.4566424,1.78995,0.9913749,DBI,"diazepam binding inhibitor (GABA receptor modulator, acyl-Coenzyme A binding protein)",1622
+171,171,17_17_2,0.00523,7.21e-05,5.4565387,1.78976,1.6872329,MLLT11,"myeloid/lymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila); translocated to, 11",10962
+178,178,3_6_3,0.00573,8.41e-05,5.3738078,1.63851,1.8021611,MAPKAPK3,mitogen-activated protein kinase-activated protein kinase 3,7867
+181,181,21_6_4,0.00573,8.44e-05,5.3719724,1.63515,1.9875836,INHBB,"inhibin, beta B",3625
+185,185,37_13_7,0.00583,8.69e-05,5.3560653,1.60595,1.1219026,E2F5,"E2F transcription factor 5, p130-binding",1875
+186,186,4_13_5,0.00592,8.86e-05,5.3455304,1.5866,2.0623908,HSPBP1,hsp70-interacting protein,23640
+189,189,12_5_8,0.00599,9.12e-05,5.3302428,1.55849,3.0907125,FN1,fibronectin 1,2335
+191,191,11_13_1,0.00618,9.52e-05,5.3072906,1.51623,1.9355522,IL1A,"interleukin 1, alpha",3552
+194,194,11_24_1,0.00623,9.74e-05,5.2949459,1.49348,2.3908531,MNDA,myeloid cell nuclear differentiation antigen,4332
+195,195,18_5_8,0.00628,9.94e-05,5.2843214,1.47387,2.5733841,C6orf64,chromosome 6 open reading frame 64,55776
+197,197,39_9_8,0.00628,0.0001,5.2804627,1.46675,1.6474133,GARS,glycyl-tRNA synthetase,2617
+199,199,2_31_7,0.00629,0.000101,5.274831,1.45635,2.1847126,NP,nucleoside phosphorylase,4860
+201,201,57_13_5,0.00629,0.000102,5.2696348,1.44675,1.2700581,LEF1,lymphoid enhancer-binding factor 1,51176
+203,203,12_2_6,0.00629,0.000103,5.2659821,1.44,1.1759807,MTHFD1L,methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 1-like,25902
+204,204,24_14_2,0.00642,0.000105,5.2528911,1.4158,1.6182823,GPR109B,G protein-coupled receptor 109B,8843
+207,207,16_11_2,0.00642,0.000107,5.2445557,1.40037,1.5493731,S100A11,S100 calcium binding protein A11,6282
+208,208,10_22_7,0.00643,0.000108,5.2412639,1.39428,4.0789633,DPP4,"dipeptidyl-peptidase 4 (CD26, adenosine deaminase complexing protein 2)",1803
+209,209,16_15_7,0.00658,0.000111,5.2265201,1.36697,0.9818277,BAX,BCL2-associated X protein,581
+213,213,39_4_3,0.0067,0.000115,5.2068778,1.33054,0.9934693,POLR2D,polymerase (RNA) II (DNA directed) polypeptide D,5433
+218,218,15_22_1,0.00682,0.00012,5.1840211,1.28809,2.0706467,SERPINB2,"serpin peptidase inhibitor, clade B (ovalbumin), member 2",5055
+221,221,41_22_3,0.00686,0.000122,5.1753942,1.27205,1.425674,PTP4A3,"protein tyrosine phosphatase type IVA, member 3",11156
+228,228,41_16_7,0.00712,0.000131,5.1386318,1.20359,1.6526059,CLDN1,claudin 1,9076
+234,234,9_9_1,0.00739,0.000139,5.1058629,1.14242,2.3040217,PROS1,protein S (alpha),5627
+235,235,23_13_2,0.00755,0.000143,5.0895681,1.11195,1.9334871,GPR162,G protein-coupled receptor 162,27239
+239,239,2_23_6,0.00769,0.000148,5.0734523,1.08179,1.2862805,SIPA1L2,signal-induced proliferation-associated 1 like 2,57568
+242,242,3_2_3,0.00794,0.000155,5.0490996,1.03615,2.4691481,EPYC,epiphycan,1833
+245,245,16_11_5,0.00801,0.000158,5.0371262,1.01368,3.3900563,C8orf4,chromosome 8 open reading frame 4,56892
+246,246,50_20_7,0.00801,0.000159,5.0339748,1.00776,1.8904414,CDKN1A,"cyclin-dependent kinase inhibitor 1A (p21, Cip1)",1026
+248,248,25_18_3,0.00801,0.00016,5.0328075,1.00557,3.228394,FN1,fibronectin 1,2335
+250,250,1_7_4,0.0083,0.000167,5.0100905,0.96289,1.2420787,DMPK,dystrophia myotonica-protein kinase,1760
+251,251,6_6_7,0.00832,0.000168,5.0066201,0.95636,1.1118746,WIZ,widely interspaced zinc finger motifs,58525
+254,254,37_18_5,0.00834,0.000171,4.997213,0.93866,1.0072485,LOC57228,small trans-membrane and glycosylated protein,57228
+261,261,44_9_1,0.00882,0.000185,4.9555666,0.86018,2.3148523,CEACAM6///CEACAM5,carcinoembryonic antigen-related cell adhesion molecule 6 (non-specific cross reacting antigen)///carcinoembryonic antigen-related cell adhesion molecule 5,4680///1048
+262,262,52_18_1,0.00885,0.000187,4.9511379,0.85182,1.7451513,ANXA1,annexin A1,301
+263,263,60_8_1,0.00885,0.000188,4.9485047,0.84685,1.2576129,SLC4A1,"solute carrier family 4, anion exchanger, member 1 (erythrocyte membrane protein band 3, Diego blood group)",6521
+266,266,11_19_2,0.00911,0.000195,4.9288699,0.80976,0.9392346,COX7A2L,cytochrome c oxidase subunit VIIa polypeptide 2 like,9167
+268,268,45_4_5,0.00917,0.000198,4.9214264,0.79569,1.7960006,CCND1,cyclin D1,595
+274,274,14_25_7,0.00928,0.000204,4.9038851,0.7625,2.366972,DUSP6,dual specificity phosphatase 6,1848
+276,276,41_12_1,0.00948,0.00021,4.8890586,0.73442,1.5575007,NT5E,"5'-nucleotidase, ecto (CD73)",4907
+278,278,26_7_3,0.00976,0.000218,4.8696466,0.69762,2.1744759,DUSP6,dual specificity phosphatase 6,1848
+280,280,60_19_7,0.00983,0.000221,4.8626378,0.68432,1.020007,HES2,hairy and enhancer of split 2 (Drosophila),54626
+281,281,20_6_2,0.00983,0.000223,4.8595609,0.67848,3.6090062,KCNN4,"potassium intermediate/small conductance calcium-activated channel, subfamily N, member 4",3783
+282,282,46_23_2,0.00983,0.000224,4.8555729,0.67091,2.7013004,QPCT,glutaminyl-peptide cyclotransferase (glutaminyl cyclase),25797
+284,284,13_21_1,0.00983,0.000226,4.8524679,0.66502,0.7760032,IGF2R,insulin-like growth factor 2 receptor,3482
+285,285,23_8_2,0.00983,0.000226,4.8522694,0.66464,2.0310315,KBTBD2///PLAG1,kelch repeat and BTB (POZ) domain containing 2///pleiomorphic adenoma gene 1,25948///5324
+286,286,54_28_7,0.00983,0.000226,4.8514605,0.6631,1.2005929,UPP1,uridine phosphorylase 1,7378
+287,287,56_17_4,0.00994,0.000229,4.8442465,0.6494,1.2639732,TK1,"thymidine kinase 1, soluble",7083
+290,290,28_13_5,0.0101,0.000234,4.8328416,0.62773,3.6046918,ACP6,"acid phosphatase 6, lysophosphatidic",51205
+291,291,28_21_1,0.0101,0.000235,4.8305397,0.62335,1.0844648,CTNNB1,"catenin (cadherin-associated protein), beta 1, 88kDa",1499
+293,293,15_8_7,0.0101,0.000237,4.8262075,0.61511,0.8433416,VSNL1,visinin-like 1,7447
+295,295,8_22_7,0.0101,0.00024,4.8213791,0.60593,1.4843407,FYB,FYN binding protein (FYB-120/130),2533
+296,296,14_14_6,0.0101,0.00024,4.81955,0.60245,0.7269571,DHX36,DEAH (Asp-Glu-Ala-His) box polypeptide 36,170506
+299,299,2_21_2,0.0104,0.00025,4.7990264,0.56338,1.0369726,PON2,paraoxonase 2,5445
+300,300,28_3_7,0.0105,0.000252,4.7944886,0.55473,0.9643895,GINS2,GINS complex subunit 2 (Psf2 homolog),51659
+301,301,51_24_2,0.0105,0.000253,4.7926523,0.55123,0.7680817,DGKZ,"diacylglycerol kinase, zeta 104kDa",8525
+306,306,57_4_4,0.0107,0.000264,4.7703943,0.50879,1.3511163,SPINT1,"serine peptidase inhibitor, Kunitz type 1",6692
+308,308,46_9_3,0.0109,0.000269,4.7620866,0.49294,2.3099649,IL1RAP,interleukin 1 receptor accessory protein,3556
+313,313,39_21_7,0.0111,0.000281,4.7399224,0.45061,1.9047078,ANXA1,annexin A1,301
+320,320,15_26_5,0.0114,0.000295,4.714407,0.40181,1.1031001,KIAA0101,KIAA0101,9768
+322,322,58_13_1,0.0114,0.000296,4.7127275,0.39859,1.5743174,PSG11,pregnancy specific beta-1-glycoprotein 11,5680
+323,323,23_15_7,0.0114,0.000297,4.7098058,0.393,0.6851572,TRIM13,tripartite motif-containing 13,10206
+325,325,23_27_1,0.0114,0.0003,4.705546,0.38484,1.9970412,IL1B,"interleukin 1, beta",3553
+328,328,8_15_4,0.0115,0.000303,4.700647,0.37546,1.5572144,CKAP5,cytoskeleton associated protein 5,9793
+331,331,25_21_1,0.0117,0.000312,4.6848633,0.34522,1.6531212,MST1R,macrophage stimulating 1 receptor (c-met-related tyrosine kinase),4486
+335,335,7_7_5,0.0118,0.000318,4.6760566,0.32833,1.2982191,C4orf6,chromosome 4 open reading frame 6,10141
+339,339,26_20_1,0.0121,0.00033,4.6563827,0.29058,2.3421188,CYBB,"cytochrome b-245, beta polypeptide (chronic granulomatous disease)",1536
+342,342,27_6_5,0.0122,0.000337,4.6463576,0.27133,4.7986523,CLDN16,claudin 16,10686
+346,346,2_31_2,0.0125,0.000349,4.6283656,0.23675,1.5018376,GRB7,growth factor receptor-bound protein 7,2886
+350,350,58_16_4,0.0128,0.000361,4.6101939,0.2018,1.9324974,MALL,"mal, T-cell differentiation protein-like",7851
+353,353,14_25_2,0.013,0.00037,4.5978243,0.17799,0.7159444,BLVRA,biliverdin reductase A,644
+354,354,35_13_7,0.0132,0.000375,4.5909226,0.16469,1.3593341,CDH13,"cadherin 13, H-cadherin (heart)",1012
+356,356,26_10_1,0.0133,0.000381,4.5827385,0.14893,2.4640358,MET,met proto-oncogene (hepatocyte growth factor receptor),4233
+357,357,2_3_4,0.0133,0.000381,4.5824248,0.14832,1.2264945,MAP4K4,mitogen-activated protein kinase kinase kinase kinase 4,9448
+361,361,38_15_1,0.0133,0.000385,4.5768973,0.13767,0.9928311,ABR,active BCR-related gene,29
+362,362,7_7_7,0.0134,0.000389,4.5718318,0.1279,1.5449289,AMIGO2,adhesion molecule with Ig-like domain 2,347902
+363,363,47_12_7,0.0134,0.000392,4.5678581,0.12024,3.8678524,DPP4,"dipeptidyl-peptidase 4 (CD26, adenosine deaminase complexing protein 2)",1803
+365,365,17_3_8,0.0135,0.000396,4.5631377,0.11113,0.8692163,BAI3,brain-specific angiogenesis inhibitor 3,577
+369,369,25_18_4,0.0138,0.000408,4.5472452,0.08047,0.7711603,NAT6///HYAL3,N-acetyltransferase 6///hyaluronoglucosaminidase 3,24142///8372
+370,370,38_25_2,0.0143,0.000425,4.5271431,0.04164,0.8954978,TNFRSF10B,"tumor necrosis factor receptor superfamily, member 10b",8795
+371,371,19_28_1,0.0144,0.000429,4.5224142,0.0325,2.1248783,hCG_2015138///PGAM1,phosphoglycerate mutase 1 pseudogene///phosphoglycerate mutase 1 (brain),642969///5223
+373,373,30_18_1,0.0144,0.000431,4.5197839,0.02742,1.0939497,ALOX5,arachidonate 5-lipoxygenase,240
+374,374,27_17_1,0.0144,0.000432,4.5183598,0.02467,0.6064558,GSK3B,glycogen synthase kinase 3 beta,2932
+377,377,30_24_5,0.0144,0.000437,4.5131302,0.01456,0.8239681,DNMT1,DNA (cytosine-5-)-methyltransferase 1,1786
+378,378,38_21_1,0.0144,0.000437,4.5127929,0.0139,2.3858269,AK1,adenylate kinase 1,203
+379,379,8_4_4,0.0144,0.000438,4.5113227,0.01106,1.804588,CDH16,"cadherin 16, KSP-cadherin",1014
+384,384,30_19_2,0.0151,0.000465,4.480923,-0.04777,1.0533546,TMSB10,"thymosin, beta 10",9168
+385,385,27_14_3,0.0152,0.00047,4.4758541,-0.05758,0.6445668,PIGB,"phosphatidylinositol glycan anchor biosynthesis, class B",9488
+386,386,16_18_4,0.0152,0.00047,4.4753938,-0.05847,0.8288268,POLR1C,"polymerase (RNA) I polypeptide C, 30kDa",9533
+388,388,50_16_5,0.0156,0.000485,4.4598612,-0.08857,2.2367018,MPZL2,myelin protein zero-like 2,10205
+389,389,14_16_5,0.0156,0.000488,4.4568461,-0.09442,1.3242838,ATP11A,"ATPase, class VI, type 11A",23250
+390,390,3_31_5,0.0156,0.000488,4.4565041,-0.09508,0.8002119,C21orf30///CAMK2G,chromosome 21 open reading frame 30///calcium/calmodulin-dependent protein kinase (CaM kinase) II gamma,54083///818
+391,391,13_9_7,0.0156,0.000489,4.4556085,-0.09681,0.8097661,VASP,vasodilator-stimulated phosphoprotein,7408
+395,395,40_31_7,0.0156,0.000496,4.4480421,-0.11149,1.0161488,LOC731301,similar to zinc finger protein 611,731301
+398,398,15_4_5,0.0159,0.000509,4.4356905,-0.13545,1.2770104,TNFSF4,"tumor necrosis factor (ligand) superfamily, member 4 (tax-transcriptionally activated glycoprotein 1, 34kDa)",7292
+400,400,9_29_3,0.0159,0.000512,4.4321076,-0.1424,1.0582135,ESPL1,extra spindle pole bodies homolog 1 (S. cerevisiae),9700
+403,403,6_14_2,0.0162,0.000524,4.4210351,-0.16389,1.1945334,IER3,immediate early response 3,8870
+404,404,26_8_5,0.0162,0.000524,4.4205261,-0.16488,0.7594156,SLC40A1,"solute carrier family 40 (iron-regulated transporter), member 1",30061
+405,405,58_12_7,0.0162,0.000527,4.4180046,-0.16978,0.7525848,HMGN3,high mobility group nucleosomal binding domain 3,9324
+407,407,15_16_6,0.0163,0.000532,4.4127575,-0.17997,0.6584874,C14orf119,chromosome 14 open reading frame 119,55017
+408,408,25_7_4,0.0163,0.000534,4.4113019,-0.18279,1.088201,CORO2A,"coronin, actin binding protein, 2A",7464
+410,410,36_23_1,0.0163,0.000537,4.4084786,-0.18828,1.0054887,UBE1L,ubiquitin-activating enzyme E1-like,7318
+411,411,14_28_7,0.0163,0.000539,4.4060328,-0.19303,1.4288416,CSF2,colony stimulating factor 2 (granulocyte-macrophage),1437
+412,412,24_3_8,0.0164,0.000543,4.402148,-0.20058,0.6555604,PKIA,"protein kinase (cAMP-dependent, catalytic) inhibitor alpha",5569
+415,415,20_31_1,0.0165,0.000552,4.3944525,-0.21553,1.1243418,SRP68,signal recognition particle 68kDa,6730
+422,422,28_15_1,0.0169,0.000573,4.3754693,-0.25245,1.5562095,SERPINA6,"serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6",866
+429,429,18_5_2,0.0176,0.000607,4.3459133,-0.30998,0.8458058,LOC729345///SPRY1,"hypothetical protein LOC729345///sprouty homolog 1, antagonist of FGF signaling (Drosophila)",729345///10252
+434,434,28_19_3,0.0181,0.000631,4.3269593,-0.3469,1.7955167,ADAMTS1,"ADAM metallopeptidase with thrombospondin type 1 motif, 1",9510
+435,435,26_9_2,0.0181,0.000633,4.3252419,-0.35025,1.008169,ITPR2,"inositol 1,4,5-triphosphate receptor, type 2",3709
+437,437,45_5_8,0.0181,0.000636,4.322338,-0.35591,2.3589687,QPCT,glutaminyl-peptide cyclotransferase (glutaminyl cyclase),25797
+442,442,33_5_5,0.0183,0.000651,4.3109266,-0.37816,0.6721444,TEX28P2,testis expressed 28 pseudogene 2,653363
+446,446,40_13_1,0.0186,0.000668,4.2978978,-0.40358,2.103112,ITGA2,"integrin, alpha 2 (CD49B, alpha 2 subunit of VLA-2 receptor)",3673
+450,450,23_6_4,0.0193,0.000699,4.2753891,-0.44751,0.8167527,VAMP8,vesicle-associated membrane protein 8 (endobrevin),8673
+451,451,38_14_6,0.0194,0.000702,4.2732393,-0.45171,0.6237247,UPF2,UPF2 regulator of nonsense transcripts homolog (yeast),26019
+453,453,3_7_3,0.0195,0.00071,4.2675022,-0.46292,1.588384,KYNU,kynureninase (L-kynurenine hydrolase),8942
+454,454,20_17_7,0.0197,0.000717,4.2620408,-0.47358,0.6582234,CLIP2,CAP-GLY domain containing linker protein 2,7461
+459,459,5_3_4,0.02,0.000738,4.2475943,-0.50182,1.3040459,SH2D2A,SH2 domain protein 2A,9047
+462,462,9_13_2,0.0202,0.00075,4.2395949,-0.51745,1.2629721,KLRK1///KLRC4,"killer cell lectin-like receptor subfamily K, member 1///killer cell lectin-like receptor subfamily C, member 4",22914///8302
+466,466,39_9_4,0.0203,0.000761,4.232203,-0.53191,1.6808102,GRIA3,"glutamate receptor, ionotrophic, AMPA 3",2892
+467,467,27_9_3,0.0208,0.000778,4.2210801,-0.55367,1.4806681,ALOX5AP,arachidonate 5-lipoxygenase-activating protein,241
+470,470,17_7_5,0.0209,0.000788,4.2152039,-0.56516,1.3403236,MBL1P1,"mannose-binding lectin (protein A) 1, pseudogene 1",8512
+476,476,51_4_2,0.0214,0.00082,4.1952043,-0.60431,3.2289335,ARID3A,AT rich interactive domain 3A (BRIGHT-like),1820
+478,478,35_26_1,0.0219,0.000841,4.1819593,-0.63025,1.0386834,PRKD1,protein kinase D1,5587
+479,479,52_6_2,0.022,0.000846,4.1792216,-0.63561,1.7411054,UPP1,uridine phosphorylase 1,7378
+480,480,28_31_5,0.0222,0.000861,4.1706874,-0.65234,0.6023414,EFR3A,EFR3 homolog A (S. cerevisiae),23167
+482,482,5_6_6,0.0222,0.000864,4.1688803,-0.65588,1.1032245,DPY19L1,dpy-19-like 1 (C. elegans),23333
+484,484,4_11_2,0.0222,0.000866,4.1678098,-0.65798,1.484604,DST,dystonin,667
+487,487,18_31_3,0.0222,0.000869,4.1660547,-0.66141,1.1036881,CDC42EP3,CDC42 effector protein (Rho GTPase binding) 3,10602
+489,489,50_10_1,0.0223,0.000874,4.1631904,-0.66703,0.7440986,MAP3K10,mitogen-activated protein kinase kinase kinase 10,4294
+491,491,1_14_4,0.0226,0.000893,4.1523284,-0.68832,1.9847635,TREH,trehalase (brush-border membrane glycoprotein),11181
+495,495,15_10_2,0.0231,0.000919,4.1379183,-0.71658,1.3146406,ACVRL1,activin A receptor type II-like 1,94
+497,497,49_13_2,0.0231,0.000922,4.1363577,-0.71964,2.0817753,PLP2,proteolipid protein 2 (colonic epithelium-enriched),5355
+499,499,13_4_3,0.0231,0.000926,4.1338642,-0.72453,1.6881408,TLR2,toll-like receptor 2,7097
+500,500,26_24_1,0.0235,0.000945,4.1236455,-0.74458,0.9683622,FYN,"FYN oncogene related to SRC, FGR, YES",2534
+502,502,41_15_5,0.0235,0.000947,4.1229534,-0.74594,0.9771579,CMTM1///CKLF,CKLF-like MARVEL transmembrane domain containing 1///chemokine-like factor,113540///51192
+504,504,23_4_5,0.0236,0.000954,4.1190115,-0.75368,1.4620493,ZNF41,zinc finger protein 41,7592
+505,505,3_23_1,0.0236,0.000956,4.1178549,-0.75595,2.1713167,HCK,hemopoietic cell kinase,3055
+508,508,29_3_5,0.0241,0.000984,4.1037204,-0.78369,1.1237402,HIST1H2AM,"histone cluster 1, H2am",8336
+509,509,4_30_2,0.0241,0.000987,4.1020796,-0.78691,1.5447094,TMSB4X,"thymosin, beta 4, X-linked",7114
+510,510,34_4_4,0.0241,0.000987,4.1019318,-0.7872,0.7690541,CYP2S1,"cytochrome P450, family 2, subfamily S, polypeptide 1",29785
+511,511,1_26_5,0.0242,0.000993,4.099291,-0.79239,1.3182588,C6orf32,chromosome 6 open reading frame 32,9750
+512,512,16_17_5,0.0242,0.000995,4.0980246,-0.79487,1.5503996,WHSC1,Wolf-Hirschhorn syndrome candidate 1,7468
+513,513,57_30_4,0.0242,0.000998,4.0963552,-0.79815,2.2007235,AGR2,anterior gradient homolog 2 (Xenopus laevis),10551
+514,514,34_12_4,0.0242,0.001,4.0957631,-0.79931,1.0446986,LOC645645///GNG4,"hypothetical protein LOC645645///guanine nucleotide binding protein (G protein), gamma 4",645645///2786
+515,515,4_22_2,0.0243,0.001,4.0941248,-0.80253,1.9848626,CTSH,cathepsin H,1512
+518,518,31_18_3,0.0244,0.00102,4.087479,-0.81558,1.3658248,HAPLN1,hyaluronan and proteoglycan link protein 1,1404
+520,520,2_27_2,0.0245,0.00102,4.0848989,-0.82065,0.9394166,CDC42EP1,CDC42 effector protein (Rho GTPase binding) 1,11135
+521,521,6_11_7,0.0245,0.00102,4.0842016,-0.82202,0.7749014,ERF,Ets2 repressor factor,2077
+522,522,8_11_1,0.0245,0.00103,4.0823864,-0.82559,1.071969,MSN,moesin,4478
+526,526,43_8_6,0.0247,0.00104,4.07406,-0.84195,0.7857286,MFN1,mitofusin 1,55669
+528,528,29_29_7,0.0252,0.00107,4.0630335,-0.86361,1.6503226,CTSH,cathepsin H,1512
+531,531,48_26_2,0.0256,0.00109,4.0516114,-0.88607,2.3755112,ABCC3,"ATP-binding cassette, sub-family C (CFTR/MRP), member 3",8714
+532,532,10_3_2,0.0256,0.00109,4.0509017,-0.88746,1.3572544,JAG2,jagged 2,3714
+533,533,14_20_2,0.0257,0.0011,4.0488799,-0.89144,1.1093028,TPBG,trophoblast glycoprotein,7162
+535,535,10_16_7,0.0257,0.00111,4.0456414,-0.8978,1.532461,KIAA0746,KIAA0746 protein,23231
+537,537,29_8_4,0.0257,0.00111,4.0437834,-0.90146,0.6366945,PHLDA3,"pleckstrin homology-like domain, family A, member 3",23612
+546,546,49_19_4,0.0258,0.00113,4.0339645,-0.92076,1.8007348,RAB27A,"RAB27A, member RAS oncogene family",5873
+547,547,56_15_5,0.0258,0.00113,4.0328502,-0.92296,0.713188,CDC42SE1,CDC42 small effector 1,56882
+548,548,9_12_4,0.0258,0.00113,4.0324936,-0.92366,1.1344282,NRBP2,nuclear receptor binding protein 2,340371
+551,551,7_29_3,0.026,0.00115,4.0261178,-0.9362,1.2666724,ETV2,ets variant gene 2,2116
+553,553,8_21_1,0.0261,0.00116,4.0225362,-0.94324,1.8253413,COL2A1,"collagen, type II, alpha 1 (primary osteoarthritis, spondyloepiphyseal dysplasia, congenital)",1280
+556,556,60_17_4,0.0262,0.00117,4.0167044,-0.95472,0.6331857,CSNK2B,"casein kinase 2, beta polypeptide",1460
+557,557,8_11_2,0.0264,0.00118,4.0136047,-0.96082,1.0191145,LRBA,"LPS-responsive vesicle trafficking, beach and anchor containing",987
+559,559,16_30_2,0.0264,0.00118,4.0118488,-0.96427,1.3548858,LOXL2,lysyl oxidase-like 2,4017
+563,564,58_31_1,0.0264,0.0012,4.0064516,-0.97489,1.8380302,ALDH1A3,"aldehyde dehydrogenase 1 family, member A3",220
+567,568,2_8_2,0.0273,0.00125,3.9853223,-1.01648,1.2054131,ELF4,E74-like factor 4 (ets domain transcription factor),2000
+568,569,3_6_5,0.0273,0.00125,3.9825766,-1.02188,0.9484383,HIST1H2BC,"histone cluster 1, H2bc",8347
+569,570,7_13_4,0.0273,0.00126,3.9813877,-1.02423,2.5510638,PLXNC1,plexin C1,10154
+577,578,8_15_2,0.0277,0.00128,3.971183,-1.04432,0.7549792,IL13RA1,"interleukin 13 receptor, alpha 1",3597
+580,581,17_29_2,0.0277,0.00129,3.9674423,-1.05169,0.8458437,TMEM2,transmembrane protein 2,23670
+587,588,26_13_2,0.028,0.00133,3.9542916,-1.07759,1.8282265,CBX3,"chromobox homolog 3 (HP1 gamma homolog, Drosophila)",11335
+588,589,44_11_7,0.028,0.00133,3.9534655,-1.07921,1.0770292,CDH13,"cadherin 13, H-cadherin (heart)",1012
+598,600,34_15_7,0.0286,0.00138,3.9362626,-1.11311,2.1757714,PIWIL1,piwi-like 1 (Drosophila),9271
+602,604,9_13_4,0.0286,0.00139,3.9323421,-1.12083,0.84346,RAPGEF2,Rap guanine nucleotide exchange factor (GEF) 2,9693
+604,606,28_31_2,0.0291,0.00142,3.9226168,-1.14,2.0671923,RXRG,"retinoid X receptor, gamma",6258
+611,614,57_19_4,0.0293,0.00145,3.911698,-1.16152,1.0522269,F12,coagulation factor XII (Hageman factor),2161
+612,615,11_11_6,0.0293,0.00145,3.9113132,-1.16228,1.6412984,KIAA0430,KIAA0430,9665
+613,616,30_12_2,0.0293,0.00145,3.9098181,-1.16523,0.9576207,HMGA2,high mobility group AT-hook 2,8091
+619,622,10_16_1,0.03,0.0015,3.8941556,-1.1961,0.9324208,VDR,"vitamin D (1,25- dihydroxyvitamin D3) receptor",7421
+621,624,2_20_7,0.03,0.0015,3.8924976,-1.19937,0.80611,TNFRSF1B,"tumor necrosis factor receptor superfamily, member 1B",7133
+622,625,3_15_1,0.0301,0.00151,3.8909217,-1.20248,1.6138434,HLA-DQB2///HLA-DQB1,"major histocompatibility complex, class II, DQ beta 2///major histocompatibility complex, class II, DQ beta 1",3120///3119
+624,627,19_21_7,0.0301,0.00151,3.8889106,-1.20645,3.707078,DUSP5,dual specificity phosphatase 5,1847
+625,628,30_17_4,0.0301,0.00152,3.8887572,-1.20675,1.3082587,TSC22D3,"TSC22 domain family, member 3",1831
+633,636,2_8_1,0.031,0.00158,3.867466,-1.24874,0.9340962,YWHAH,"tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, eta polypeptide",7533
+637,641,50_12_1,0.0311,0.0016,3.8604548,-1.26257,1.2983703,PRKCB1,"protein kinase C, beta 1",5579
+642,646,41_5_4,0.0312,0.00162,3.8556644,-1.27202,1.5293765,TGFA,"transforming growth factor, alpha",7039
+646,651,17_13_2,0.0315,0.00165,3.8474392,-1.28824,2.3814708,DUSP5,dual specificity phosphatase 5,1847
+649,654,23_11_4,0.0316,0.00166,3.8435573,-1.2959,1.0300204,NTSR2,neurotensin receptor 2,23620
+650,655,10_10_7,0.0316,0.00166,3.8424776,-1.29803,1.1906859,EPS8,epidermal growth factor receptor pathway substrate 8,2059
+652,657,24_2_2,0.0318,0.00168,3.838773,-1.30534,2.3321892,KCNQ3,"potassium voltage-gated channel, KQT-like subfamily, member 3",3786
+654,659,14_11_4,0.0319,0.00169,3.8354803,-1.31184,1.5372774,TCF15,transcription factor 15 (basic helix-loop-helix),6939
+655,660,50_15_7,0.032,0.0017,3.8325082,-1.3177,0.583807,LGALS1,"lectin, galactoside-binding, soluble, 1 (galectin 1)",3956
+656,661,12_25_6,0.0321,0.0017,3.8311203,-1.32044,0.642323,DERL1,"Der1-like domain family, member 1",79139
+658,663,46_9_1,0.0321,0.00171,3.8282215,-1.32616,1.5440659,NGFB,"nerve growth factor, beta polypeptide",4803
+659,664,51_27_3,0.0321,0.00171,3.8278844,-1.32683,0.6129475,CPS1,"carbamoyl-phosphate synthetase 1, mitochondrial",1373
+663,668,13_15_3,0.0323,0.00173,3.8221217,-1.3382,2.6519283,MMP16,matrix metallopeptidase 16 (membrane-inserted),4325
+664,669,9_6_6,0.0324,0.00174,3.8196368,-1.3431,1.3528873,LMO3///ABTB2,LIM domain only 3 (rhombotin-like 2)///ankyrin repeat and BTB (POZ) domain containing 2,55885///25841
+666,671,40_28_4,0.0329,0.00178,3.809891,-1.36233,0.6468884,PSG7,pregnancy specific beta-1-glycoprotein 7,5676
+667,672,3_25_2,0.0329,0.00178,3.8096276,-1.36285,0.9481607,SFXN3,sideroflexin 3,81855
+670,675,51_11_3,0.033,0.00179,3.8069602,-1.36812,0.8152387,CHAF1B,"chromatin assembly factor 1, subunit B (p60)",8208
+671,676,47_13_3,0.0331,0.0018,3.8039272,-1.3741,1.3538068,CDH13,"cadherin 13, H-cadherin (heart)",1012
+672,677,21_27_4,0.0331,0.0018,3.8037973,-1.37436,1.3413462,TMSB4Y,"thymosin, beta 4, Y-linked",9087
+674,679,10_6_8,0.0333,0.00181,3.7995646,-1.38271,1.3772545,C7orf24,chromosome 7 open reading frame 24,79017
+675,680,12_13_1,0.0335,0.00183,3.7960457,-1.38966,0.9394103,XPO6///PTK7,exportin 6///PTK7 protein tyrosine kinase 7,23214///5754
+677,682,34_29_6,0.0343,0.00188,3.7828714,-1.41566,0.6435813,NPLOC4,nuclear protein localization 4 homolog (S. cerevisiae),55666
+680,685,44_19_4,0.0343,0.00188,3.7808133,-1.41972,1.4673316,FXYD2,FXYD domain containing ion transport regulator 2,486
+684,689,51_14_4,0.0343,0.0019,3.7770284,-1.42719,1.0066582,AIM1,absent in melanoma 1,202
+686,692,37_5_4,0.0345,0.00192,3.770842,-1.43941,1.2962943,LCP2,lymphocyte cytosolic protein 2 (SH2 domain containing leukocyte protein of 76kDa),3937
+690,696,53_24_4,0.0345,0.00193,3.7697278,-1.44161,4.2035243,GABBR2,"gamma-aminobutyric acid (GABA) B receptor, 2",9568
+693,700,39_21_1,0.0346,0.00194,3.765448,-1.45005,1.2279863,AADAC,arylacetamide deacetylase (esterase),13
+694,701,12_3_8,0.0347,0.00196,3.7620771,-1.45671,0.6923978,ACCN2,"amiloride-sensitive cation channel 2, neuronal",41
+695,702,3_10_1,0.0347,0.00196,3.7620716,-1.45672,0.7728548,TEC,tec protein tyrosine kinase,7006
+700,707,33_5_7,0.0349,0.00198,3.7556842,-1.46933,0.5088999,CCDC109A,coiled-coil domain containing 109A,90550
+704,711,27_22_7,0.0349,0.00199,3.7530857,-1.47446,2.0152921,LOC129607,hypothetical protein LOC129607,129607
+707,714,7_10_6,0.0352,0.00201,3.7477118,-1.48507,0.722404,NIPA2,non imprinted in Prader-Willi/Angelman syndrome 2,81614
+708,715,6_13_2,0.0354,0.00203,3.7429974,-1.49438,1.0677891,RPS6KA3,"ribosomal protein S6 kinase, 90kDa, polypeptide 3",6197
+709,716,22_3_5,0.0354,0.00204,3.7424902,-1.49538,1.0547487,IGSF6,"immunoglobulin superfamily, member 6",10261
+714,721,5_17_5,0.0356,0.00206,3.7360495,-1.50809,0.8334303,OSGIN1,oxidative stress induced growth inhibitor 1,29948
+716,723,16_11_6,0.0357,0.00207,3.7336269,-1.51288,1.2676867,MBOAT2///SPHAR///RAB4A,"membrane bound O-acyltransferase domain containing 2///S-phase response (cyclin-related)///RAB4A, member RAS oncogene family",129642///10638///5867
+717,724,39_10_3,0.0358,0.00208,3.7316161,-1.51684,2.3489601,CYP24A1,"cytochrome P450, family 24, subfamily A, polypeptide 1",1591
+727,734,23_14_5,0.0358,0.00211,3.7253132,-1.52929,1.6300622,LMO3///ABTB2,LIM domain only 3 (rhombotin-like 2)///ankyrin repeat and BTB (POZ) domain containing 2,55885///25841
+729,736,17_30_3,0.036,0.00213,3.71988,-1.54002,0.7028709,NRXN1,neurexin 1,9378
+730,737,31_12_2,0.036,0.00214,3.7185056,-1.54273,1.2029078,ABCC1///RCBTB2,"ATP-binding cassette, sub-family C (CFTR/MRP), member 1///regulator of chromosome condensation (RCC1) and BTB (POZ) domain containing protein 2",4363///1102
+733,740,15_12_6,0.036,0.00214,3.7167877,-1.54612,1.0793398,ZNRF2,zinc and ring finger 2,223082
+739,746,59_28_7,0.0364,0.00218,3.7091825,-1.56114,0.8515462,GPX1,glutathione peroxidase 1,2876
+741,748,11_23_3,0.0366,0.0022,3.7050613,-1.56927,0.9299244,MYO6,myosin VI,4646
+742,749,58_30_6,0.0366,0.0022,3.7044829,-1.57041,2.3525597,ANKZF1,ankyrin repeat and zinc finger domain containing 1,55139
+743,750,8_14_1,0.0366,0.00221,3.7023901,-1.57455,1.5358707,CYP3A7,"cytochrome P450, family 3, subfamily A, polypeptide 7",1551
+750,757,2_13_2,0.0374,0.00227,3.6883746,-1.60222,1.6622948,TM4SF4,transmembrane 4 L six family member 4,7104
+753,761,18_11_2,0.0376,0.00229,3.6837751,-1.6113,0.8611018,SLC35B1,"solute carrier family 35, member B1",10237
+755,763,15_24_5,0.0381,0.00233,3.674852,-1.62892,2.8195018,PCDH20,protocadherin 20,64881
+758,766,59_15_1,0.0381,0.00234,3.673011,-1.63255,1.7304423,GRIK3,"glutamate receptor, ionotropic, kainate 3",2899
+760,768,2_26_5,0.0381,0.00235,3.6718556,-1.63483,1.0100131,C9orf3,chromosome 9 open reading frame 3,84909
+763,772,49_11_5,0.0391,0.00242,3.6568308,-1.66449,1.5875313,TREM2,triggering receptor expressed on myeloid cells 2,54209
+766,775,59_14_1,0.0391,0.00243,3.6547321,-1.66864,2.0903443,GSTM2,glutathione S-transferase M2 (muscle),2946
+767,776,15_4_3,0.0392,0.00244,3.6526357,-1.67277,1.794749,TSC22D1,"TSC22 domain family, member 1",8848
+770,779,28_5_8,0.0398,0.00248,3.6440358,-1.68975,1.426722,QPCT,glutaminyl-peptide cyclotransferase (glutaminyl cyclase),25797
+782,791,15_7_4,0.0405,0.00257,3.6268176,-1.72374,1.4223461,NCAN,neurocan,1463
+783,792,45_19_5,0.0405,0.00257,3.6265932,-1.72418,0.971618,FHOD1,formin homology 2 domain containing 1,29109
+784,794,17_6_5,0.0405,0.00258,3.6252761,-1.72678,0.9983686,KLHL2,"kelch-like 2, Mayven (Drosophila)",11275
+785,795,50_21_1,0.0405,0.00258,3.6245731,-1.72817,1.1922826,CKS2,CDC28 protein kinase regulatory subunit 2,1164
+786,796,33_3_5,0.0406,0.00259,3.6231669,-1.73095,1.1189336,TLX3,T-cell leukemia homeobox 3,30012
+787,797,4_5_6,0.0407,0.0026,3.6213974,-1.73444,0.9105643,RAI14,retinoic acid induced 14,26064
+788,799,1_6_4,0.0411,0.00264,3.6143752,-1.7483,0.8454223,NFKB2,nuclear factor of kappa light polypeptide gene enhancer in B-cells 2 (p49/p100),4791
+792,803,49_2_3,0.0414,0.00266,3.6096508,-1.75762,0.5921916,CASP10,"caspase 10, apoptosis-related cysteine peptidase",843
+794,805,20_23_1,0.0414,0.00267,3.6077186,-1.76144,0.682264,PTMS,parathymosin,5763
+795,808,22_24_7,0.0415,0.00269,3.6051113,-1.76658,1.2963548,MRPS15,mitochondrial ribosomal protein S15,64960
+799,812,40_21_7,0.0419,0.00273,3.5978893,-1.78083,1.7972137,TSC22D1,"TSC22 domain family, member 1",8848
+800,813,55_18_2,0.0419,0.00273,3.5973282,-1.78194,0.8356177,CHEK1,CHK1 checkpoint homolog (S. pombe),1111
+801,814,17_27_6,0.042,0.00274,3.5951236,-1.78629,1.3521492,TIPARP,TCDD-inducible poly(ADP-ribose) polymerase,25976
+802,815,18_31_6,0.0423,0.00276,3.591549,-1.79335,1.9110462,TESC,tescalcin,54997
+803,816,1_8_7,0.0426,0.00279,3.5872603,-1.80181,0.7014748,CTNNA1,"catenin (cadherin-associated protein), alpha 1, 102kDa",1495
+804,817,38_9_3,0.0426,0.00279,3.5866841,-1.80295,1.1991539,CYP26A1,"cytochrome P450, family 26, subfamily A, polypeptide 1",1592
+805,818,17_20_1,0.0426,0.0028,3.5858702,-1.80455,1.2984601,IGFBP6,insulin-like growth factor binding protein 6,3489
+809,823,6_26_3,0.0426,0.00281,3.583211,-1.8098,3.5489866,B3GNT3,"UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 3",10331
+810,824,14_24_1,0.0427,0.00282,3.5816098,-1.81296,0.7839769,TYMS,thymidylate synthetase,7298
+813,827,47_15_5,0.0427,0.00283,3.5793438,-1.81743,0.6906411,TM7SF3,transmembrane 7 superfamily member 3,51768
+814,828,20_3_2,0.0428,0.00285,3.576778,-1.82249,1.0392998,STX1A,syntaxin 1A (brain),6804
+817,832,14_3_5,0.043,0.00287,3.5730312,-1.82989,1.0466044,GPR64,G protein-coupled receptor 64,10149
+818,833,26_8_7,0.043,0.00287,3.5724082,-1.83111,0.6995809,MDS1///EVI1,myelodysplasia syndrome 1///ecotropic viral integration site 1,4197///2122
+822,837,33_27_6,0.0432,0.0029,3.5678244,-1.84016,0.7676009,SESN2,sestrin 2,83667
+823,838,39_31_1,0.0432,0.0029,3.5677179,-1.84037,2.2849443,FCGR2A,"Fc fragment of IgG, low affinity IIa, receptor (CD32)",2212
+825,840,5_20_1,0.0434,0.00293,3.5632341,-1.84921,0.6651011,PYROXD1,pyridine nucleotide-disulphide oxidoreductase domain 1,79912
+826,841,34_30_2,0.0435,0.00294,3.5614123,-1.85281,0.7036552,RIN1,Ras and Rab interactor 1,9610
+829,844,1_18_3,0.0435,0.00295,3.5598792,-1.85583,0.7687977,TMED10,transmembrane emp24-like trafficking protein 10 (yeast),10972
+830,845,53_25_1,0.0435,0.00295,3.5592721,-1.85703,1.5284936,KRT8,keratin 8,3856
+832,847,1_27_1,0.0435,0.00296,3.5583347,-1.85888,2.2201736,RRM2,ribonucleotide reductase M2 polypeptide,6241
+836,851,11_11_2,0.0441,0.00301,3.5491869,-1.87692,1.5441842,SPRR2C,small proline-rich protein 2C,6702
+838,853,27_11_3,0.0443,0.00303,3.5464939,-1.88223,0.5207291,GSK3B,glycogen synthase kinase 3 beta,2932
+841,857,34_24_1,0.0446,0.00307,3.5398988,-1.89524,0.693714,MPP3,"membrane protein, palmitoylated 3 (MAGUK p55 subfamily member 3)",4356
+842,858,32_14_4,0.0447,0.00307,3.5389755,-1.89706,0.596639,TSC22D4,"TSC22 domain family, member 4",81628
+843,859,52_21_1,0.0447,0.00308,3.5377861,-1.89941,1.8811424,CD69,CD69 molecule,969
+846,862,23_22_1,0.045,0.00311,3.5329899,-1.90887,1.0298425,PDE6G,"phosphodiesterase 6G, cGMP-specific, rod, gamma",5148
+849,865,42_12_1,0.0451,0.00313,3.5306033,-1.91357,0.5329126,ITGB1,"integrin, beta 1 (fibronectin receptor, beta polypeptide, antigen CD29 includes MDF2, MSK12)",3688
+850,866,12_18_4,0.0451,0.00313,3.5295224,-1.9157,2.0868968,MAP1B,microtubule-associated protein 1B,4131
+856,872,9_28_1,0.0456,0.00319,3.5204452,-1.9336,2.0238342,AQP5,aquaporin 5,362
+857,873,23_28_3,0.0458,0.00321,3.5184417,-1.93755,0.8231759,ACRV1,acrosomal vesicle protein 1,56
+858,874,25_30_1,0.0458,0.00321,3.5176995,-1.93902,1.4853671,MAP4,microtubule-associated protein 4,4134
+860,876,12_10_7,0.0458,0.00322,3.5162132,-1.94195,0.7889399,PDLIM7,PDZ and LIM domain 7 (enigma),9260
+861,877,27_21_2,0.0458,0.00323,3.5149815,-1.94437,0.5057842,ADAM15,ADAM metallopeptidase domain 15,8751
+862,878,31_20_2,0.0458,0.00324,3.5138332,-1.94664,2.6277062,CITED1,"Cbp/p300-interacting transactivator, with Glu/Asp-rich carboxy-terminal domain, 1",4435
+865,881,3_16_5,0.0458,0.00324,3.5132408,-1.94781,0.7328481,SNX30,sorting nexin family member 30,401548
+868,884,16_26_1,0.0458,0.00325,3.5112498,-1.95173,0.9917126,SPHK2///DBP,sphingosine kinase 2///D site of albumin promoter (albumin D-box) binding protein,56848///1628
+870,886,47_6_4,0.0458,0.00326,3.5101775,-1.95384,0.7385846,PKN1,protein kinase N1,5585
+872,888,24_4_2,0.0458,0.00326,3.5094645,-1.95525,0.6266948,PRMT2,protein arginine methyltransferase 2,3275
+874,890,38_9_2,0.046,0.00328,3.50708,-1.95995,0.5434674,CHAF1B,"chromatin assembly factor 1, subunit B (p60)",8208
+875,891,23_4_3,0.0462,0.0033,3.5042199,-1.96559,3.2751374,TCF4,transcription factor 4,6925
+877,893,6_4_3,0.0463,0.00331,3.5021498,-1.96967,0.5289509,RAP1GDS1,"RAP1, GTP-GDP dissociation stimulator 1",5910
+882,899,3_30_5,0.0469,0.00338,3.4922587,-1.98916,0.5720591,CXorf6,chromosome X open reading frame 6,10046
+885,902,53_16_4,0.0469,0.00339,3.49077,-1.9921,2.6455782,LRP4,low density lipoprotein receptor-related protein 4,4038
+889,906,3_29_3,0.0473,0.00344,3.4840183,-2.0054,0.9759395,GUCY1A2,"guanylate cyclase 1, soluble, alpha 2",2977
+894,911,25_23_4,0.0475,0.00348,3.4784081,-2.01645,0.6018857,RCC2,regulator of chromosome condensation 2,55920
+895,912,37_3_2,0.0475,0.00348,3.4782922,-2.01668,0.6815605,NFATC4,"nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 4",4776
+898,915,19_30_1,0.0475,0.00349,3.4769031,-2.01942,1.7226515,GRP,gastrin-releasing peptide,2922
+900,917,42_20_2,0.0478,0.00353,3.4712892,-2.03048,0.6018396,PFN1,profilin 1,5216
+907,924,39_27_1,0.0478,0.00355,3.4675673,-2.03781,1.0772056,ITGAM,"integrin, alpha M (complement component 3 receptor 3 subunit)",3684
+910,928,26_15_2,0.0478,0.00356,3.4672134,-2.03851,1.3812824,ZNF652,zinc finger protein 652,22834
+911,929,16_14_1,0.0478,0.00357,3.4660018,-2.04089,1.4125966,ALDH3B2,"aldehyde dehydrogenase 3 family, member B2",222
+912,930,24_9_3,0.0478,0.00357,3.4658217,-2.04125,0.5515537,HES1,"hairy and enhancer of split 1, (Drosophila)",3280
+926,944,31_15_2,0.0489,0.0037,3.4473987,-2.07753,1.4559101,CDC6,cell division cycle 6 homolog (S. cerevisiae),990
+928,946,49_27_3,0.049,0.00372,3.4449937,-2.08227,0.796298,NUFIP1,nuclear fragile X mental retardation protein interacting protein 1,26747
+929,947,46_13_4,0.049,0.00372,3.4449454,-2.08236,0.7950942,RAB33A,"RAB33A, member RAS oncogene family",9363
+930,949,51_15_5,0.0493,0.00375,3.4409671,-2.09019,0.7056657,TRAPPC2,trafficking protein particle complex 2,6399
+931,950,22_3_8,0.0494,0.00376,3.4397967,-2.0925,0.5307615,PTPRZ1,"protein tyrosine phosphatase, receptor-type, Z polypeptide 1",5803
+932,951,24_4_3,0.0494,0.00377,3.4388199,-2.09442,0.707928,STK39,"serine threonine kinase 39 (STE20/SPS1 homolog, yeast)",27347
+934,953,44_9_5,0.0494,0.00378,3.4378162,-2.0964,0.8771037,RPS27L,ribosomal protein S27-like,51065
+936,955,53_7_7,0.0494,0.00378,3.4368621,-2.09827,1.0183995,ARHGAP19,Rho GTPase activating protein 19,84986
+939,958,10_14_2,0.0494,0.00379,3.4353258,-2.1013,1.502281,NAB2,NGFI-A binding protein 2 (EGR1 binding protein 2),4665
+940,960,13_12_1,0.0495,0.00382,3.4326531,-2.10656,1.0581792,MUC5AC,"mucin 5AC, oligomeric mucus/gel-forming",4586
+942,962,57_22_3,0.0496,0.00383,3.4307052,-2.11039,1.0011571,MAPK13,mitogen-activated protein kinase 13,5603
+944,965,16_9_6,0.0498,0.00386,3.4272581,-2.11718,0.7568657,NUFIP2,nuclear fragile X mental retardation protein interacting protein 2,57532
+945,966,12_18_1,0.0498,0.00386,3.4271124,-2.11746,0.9236841,PKD2,polycystic kidney disease 2 (autosomal dominant),5311
+948,969,3_27_1,0.0499,0.00387,3.4250423,-2.12154,0.8900804,RHCE,"Rh blood group, CcEe antigens",6006
+951,972,58_15_7,0.0501,0.0039,3.4216038,-2.1283,1.3967929,S100A6,S100 calcium binding protein A6,6277
+953,974,8_20_7,0.0502,0.00392,3.4193393,-2.13276,0.5378638,SNF1LK,SNF1-like kinase,150094
+954,975,34_12_7,0.0503,0.00393,3.4177353,-2.13592,0.6775952,PHC2,polyhomeotic homolog 2 (Drosophila),1912
+955,976,2_9_3,0.0504,0.00394,3.4162685,-2.1388,2.345991,ESM1,endothelial cell-specific molecule 1,11082
+959,980,2_10_2,0.0507,0.00399,3.4102347,-2.15067,0.6453281,CREB5,cAMP responsive element binding protein 5,9586
+966,987,38_21_7,0.0512,0.00405,3.4030485,-2.16481,1.5951092,NARS,asparaginyl-tRNA synthetase,4677
+969,990,25_14_7,0.0514,0.00408,3.399737,-2.17132,0.5173795,RPS6KA4,"ribosomal protein S6 kinase, 90kDa, polypeptide 4",8986
+974,995,52_10_1,0.0517,0.00413,3.3938162,-2.18296,1.3181775,TAP2///HLA-DOB,"transporter 2, ATP-binding cassette, sub-family B (MDR/TAP)///major histocompatibility complex, class II, DO beta",6891///3112
+975,996,21_3_6,0.0517,0.00413,3.3932292,-2.18412,1.2758509,TNIK,TRAF2 and NCK interacting kinase,23043
+977,998,46_10_4,0.0517,0.00414,3.39261,-2.18534,0.5976145,RRAS,related RAS viral (r-ras) oncogene homolog,6237
+981,1002,3_2_5,0.052,0.00418,3.3877334,-2.19492,2.0563935,AQP5,aquaporin 5,362
+982,1003,4_22_1,0.0523,0.00421,3.3846524,-2.20098,0.8637029,INHBB///GRN,"inhibin, beta B///granulin",3625///2896
+983,1004,9_27_1,0.0523,0.00421,3.3840961,-2.20208,0.6251847,UPF1,UPF1 regulator of nonsense transcripts homolog (yeast),5976
+985,1006,16_18_1,0.0524,0.00423,3.3820034,-2.20619,1.323506,RBM26///TBXA2R,RNA binding motif protein 26///thromboxane A2 receptor,64062///6915
+988,1010,29_31_1,0.0526,0.00427,3.3775489,-2.21494,0.7348715,MUT,methylmalonyl Coenzyme A mutase,4594
+993,1016,19_5_5,0.0528,0.0043,3.3736391,-2.22263,0.7671743,SLC22A14,"solute carrier family 22 (organic cation transporter), member 14",9389
+995,1018,47_21_7,0.0528,0.00431,3.372879,-2.22412,1.124157,HARS2,"histidyl-tRNA synthetase 2, mitochondrial (putative)",23438
+998,1021,11_10_1,0.0528,0.00433,3.3706841,-2.22844,1.4113193,NID1,nidogen 1,4811
+1002,1026,38_8_5,0.0531,0.00437,3.3654118,-2.2388,0.5161899,SPAST,spastin,6683
+1004,1028,38_28_6,0.0531,0.00438,3.3651202,-2.23937,0.6599687,LOC339229///SELPLG,hypothetical protein LOC339229///selectin P ligand,339229///6404
+1005,1029,36_28_7,0.0531,0.00438,3.3649085,-2.23978,1.1112373,CDKN1A,"cyclin-dependent kinase inhibitor 1A (p21, Cip1)",1026
+1016,1041,6_23_6,0.0536,0.00447,3.3541689,-2.26088,0.5943291,C14orf173,chromosome 14 open reading frame 173,64423
+1018,1043,47_27_2,0.0537,0.00449,3.3520959,-2.26495,0.6474659,PLOD2,"procollagen-lysine, 2-oxoglutarate 5-dioxygenase 2",5352
+1019,1044,20_31_2,0.0539,0.00451,3.3499596,-2.26915,0.9738808,IRX5,iroquois homeobox 5,10265
+1021,1046,16_26_3,0.0539,0.00452,3.3489332,-2.27116,1.838048,NOD1,nucleotide-binding oligomerization domain containing 1,10392
+1022,1047,4_30_4,0.054,0.00453,3.3478144,-2.27336,0.6286384,CNTFR,ciliary neurotrophic factor receptor,1271
+1023,1048,38_3_8,0.054,0.00454,3.3471284,-2.27471,3.3805496,CLDN10,claudin 10,9071
+1027,1052,12_27_1,0.0543,0.00459,3.3418559,-2.28506,1.1040724,CCNF,cyclin F,899
+1029,1054,17_27_2,0.0543,0.00459,3.3412238,-2.2863,0.5925353,DUSP7,dual specificity phosphatase 7,1849
+1030,1055,30_6_2,0.0545,0.00461,3.3389207,-2.29082,0.6769007,PIK3C2B,"phosphoinositide-3-kinase, class 2, beta polypeptide",5287
+1031,1056,27_19_1,0.0548,0.00464,3.3364341,-2.2957,1.5801438,EDNRB,endothelin receptor type B,1910
+1032,1057,36_30_6,0.0548,0.00465,3.3356342,-2.29727,0.6135818,FBXW7,F-box and WD repeat domain containing 7,55294
+1033,1059,22_2_5,0.0551,0.00468,3.3316944,-2.30501,0.7140804,SRC,v-src sarcoma (Schmidt-Ruppin A-2) viral oncogene homolog (avian),6714
+1035,1061,3_20_1,0.0556,0.00473,3.326956,-2.31431,1.0664824,DDR1,"discoidin domain receptor family, member 1",780
+1036,1063,28_2_2,0.0556,0.00474,3.3260104,-2.31616,1.3082028,IMPG1,interphotoreceptor matrix proteoglycan 1,3617
+1042,1071,28_11_3,0.0559,0.0048,3.3190915,-2.32974,0.6853271,POLE2,"polymerase (DNA directed), epsilon 2 (p59 subunit)",5427
+1045,1074,53_31_1,0.0559,0.00482,3.3178423,-2.33219,0.596783,LCP1,lymphocyte cytosolic protein 1 (L-plastin),3936
+1046,1075,29_20_1,0.0562,0.00484,3.3149799,-2.3378,1.3458286,SRGN,serglycin,5552
+1047,1076,56_14_4,0.0562,0.00485,3.3148951,-2.33797,0.6402945,SSBP4///ISYNA1,single stranded DNA binding protein 4///myo-inositol 1-phosphate synthase A1,170463///51477
+1049,1080,6_16_4,0.0566,0.0049,3.3090388,-2.34946,3.1411596,IGSF1,"immunoglobulin superfamily, member 1",3547
+1050,1081,55_27_4,0.0566,0.0049,3.3090249,-2.34948,0.7609671,ZBTB11,zinc finger and BTB domain containing 11,27107
+1058,1091,46_28_7,0.0579,0.00506,3.2931464,-2.38061,0.7192967,BMP1,bone morphogenetic protein 1,649
+1059,1092,41_9_8,0.058,0.00508,3.2914662,-2.38391,0.8410713,BRP44///IER3,brain protein 44///immediate early response 3,25874///8870
+1061,1094,13_22_1,0.058,0.0051,3.2900978,-2.38659,1.5461849,PLG,plasminogen,5340
+1062,1095,42_8_6,0.058,0.0051,3.2899835,-2.38681,1.4474978,RP11-11C5.2,similar to RIKEN cDNA 2410129H14,440145
+1063,1096,4_18_5,0.058,0.0051,3.2898866,-2.387,0.8693654,LYPLA2,lysophospholipase II,11313
+1065,1098,19_20_2,0.0582,0.00512,3.2876316,-2.39142,1.0453299,CRYBA1,"crystallin, beta A1",1411
+1066,1099,32_27_3,0.0582,0.00513,3.2864123,-2.39381,0.6713959,AP1GBP1,AP1 gamma subunit binding protein 1,11276
+1067,1100,36_12_4,0.0582,0.00514,3.2859925,-2.39463,0.9230932,PRSS3,"protease, serine, 3 (mesotrypsin)",5646
+1071,1104,16_29_1,0.0582,0.00515,3.2848507,-2.39687,1.1745425,CTSC,cathepsin C,1075
+1072,1105,26_9_6,0.0582,0.00516,3.2840672,-2.39841,1.1592824,PARP14,"poly (ADP-ribose) polymerase family, member 14",54625
+1074,1107,44_5_2,0.0584,0.00519,3.2813872,-2.40366,0.8952235,PBX3,pre-B-cell leukemia homeobox 3,5090
+1075,1108,9_9_6,0.0585,0.00519,3.280602,-2.4052,0.9875324,KIAA0100,KIAA0100,9703
+1078,1111,19_30_7,0.0587,0.00523,3.2776715,-2.41094,1.9394694,BRCC3,"BRCA1/BRCA2-containing complex, subunit 3",79184
+1082,1117,15_13_5,0.0593,0.00531,3.2696909,-2.42657,0.7582252,AVEN,"apoptosis, caspase activation inhibitor",57099
+1083,1118,13_6_5,0.0594,0.00532,3.2686882,-2.42853,0.8190573,SH3PXD2A,SH3 and PX domains 2A,9644
+1084,1119,17_24_3,0.0594,0.00533,3.2679114,-2.43005,0.6261265,NDUFS5,"NADH dehydrogenase (ubiquinone) Fe-S protein 5, 15kDa (NADH-coenzyme Q reductase)",4725
+1085,1120,38_25_7,0.0598,0.00537,3.2638397,-2.43802,0.8604477,CCND2,cyclin D2,894
+1086,1121,46_16_2,0.0608,0.00547,3.2552079,-2.45492,3.1082126,CHI3L1,chitinase 3-like 1 (cartilage glycoprotein-39),1116
+1087,1122,45_6_6,0.0611,0.0055,3.2528365,-2.45956,1.0393845,DOCK9,dedicator of cytokinesis 9,23348
+1088,1123,13_24_1,0.0611,0.0055,3.2523241,-2.46056,1.0901172,ECE1,endothelin converting enzyme 1,1889
+1089,1124,4_6_3,0.0613,0.00553,3.2501704,-2.46478,0.7165535,HSPA8,heat shock 70kDa protein 8,3312
+1090,1125,29_14_4,0.0614,0.00554,3.2490111,-2.46704,2.1528883,PDLIM4,PDZ and LIM domain 4,8572
+1091,1126,37_12_2,0.0614,0.00554,3.248593,-2.46786,0.7223663,KLK6,kallikrein-related peptidase 6,5653
+1092,1127,48_16_1,0.0615,0.00556,3.2469865,-2.47101,2.5709007,ENTPD1,ectonucleoside triphosphate diphosphohydrolase 1,953
+1094,1129,15_24_1,0.0615,0.00557,3.2459583,-2.47302,0.943969,ENG,endoglin (Osler-Rendu-Weber syndrome 1),2022
+1098,1135,49_6_7,0.0617,0.00561,3.2425567,-2.47967,1.2513246,C7orf24,chromosome 7 open reading frame 24,79017
+1099,1136,3_2_4,0.0617,0.00562,3.2415079,-2.48172,1.7321206,BAIAP3,BAI1-associated protein 3,8938
+1105,1144,27_18_2,0.0621,0.0057,3.2346019,-2.49523,3.5446443,CCL18,chemokine (C-C motif) ligand 18 (pulmonary and activation-regulated),6362
+1106,1145,15_15_5,0.0621,0.00571,3.2344134,-2.4956,0.5664719,UBQLN4,ubiquilin 4,56893
+1108,1147,27_6_7,0.0621,0.00572,3.2335266,-2.49733,1.0244369,SLC47A1,"solute carrier family 47, member 1",55244
+1111,1150,27_23_1,0.0624,0.00575,3.2303472,-2.50355,0.923126,GLRX,glutaredoxin (thioltransferase),2745
+1112,1151,32_5_8,0.0624,0.00577,3.2292336,-2.50572,0.7300925,PLK2,polo-like kinase 2 (Drosophila),10769
+1113,1152,6_20_4,0.0624,0.00577,3.2289911,-2.5062,2.1607857,CYP2B7P1,"cytochrome P450, family 2, subfamily B, polypeptide 7 pseudogene 1",1556
+1114,1153,60_11_4,0.0624,0.00577,3.2288086,-2.50655,0.9143129,RGS3,regulator of G-protein signaling 3,5998
+1116,1155,9_15_7,0.0625,0.00579,3.2274248,-2.50926,1.2682992,PRSS23,"protease, serine, 23",11098
+1118,1157,36_8_1,0.0627,0.00581,3.2251711,-2.51366,1.3216028,LDHC,lactate dehydrogenase C,3948
+1120,1159,55_28_3,0.0628,0.00583,3.223345,-2.51723,1.5037262,NFE2L3,nuclear factor (erythroid-derived 2)-like 3,9603
+1121,1160,7_8_1,0.0628,0.00584,3.2227997,-2.5183,0.8456078,HTR2C,5-hydroxytryptamine (serotonin) receptor 2C,3358
+1122,1161,11_18_4,0.0628,0.00585,3.2216313,-2.52058,1.4368976,C6orf10,chromosome 6 open reading frame 10,10665
+1123,1162,50_14_1,0.0628,0.00586,3.2215549,-2.52073,2.5637473,COL5A1,"collagen, type V, alpha 1",1289
+1124,1163,28_18_1,0.0629,0.00586,3.2209942,-2.52183,1.6819973,ARG1,"arginase, liver",383
+1126,1169,19_12_2,0.0635,0.00595,3.2138786,-2.53573,0.5837653,PTPRK,"protein tyrosine phosphatase, receptor type, K",5796
+1128,1172,8_19_5,0.0635,0.00597,3.2121597,-2.53909,0.7792788,VRK3,vaccinia related kinase 3,51231
+1129,1173,7_14_1,0.0635,0.00597,3.2119965,-2.53941,1.2051264,HOXB5,homeobox B5,3215
+1131,1175,50_6_7,0.0637,0.00601,3.2084955,-2.54624,0.7453919,DIP,death-inducing-protein,23151
+1132,1176,4_3_4,0.0637,0.00602,3.2082692,-2.54669,0.8866613,HIP1R,huntingtin interacting protein 1 related,9026
+1133,1177,8_14_4,0.0637,0.00602,3.2081387,-2.54694,0.9716247,RBM44///LRRFIP1,RNA binding motif protein 44///leucine rich repeat (in FLII) interacting protein 1,375316///9208
+1136,1180,9_19_4,0.0637,0.00603,3.2069393,-2.54928,0.996303,SSX1,"synovial sarcoma, X breakpoint 1",6756
+1137,1181,56_6_7,0.0637,0.00603,3.2067165,-2.54972,0.869188,CCM2,cerebral cavernous malformation 2,83605
+1141,1185,41_12_4,0.0637,0.00607,3.2038533,-2.55531,0.635939,CAPN9,calpain 9,10753
+1142,1187,53_30_5,0.0637,0.00607,3.2035277,-2.55595,0.6217121,PHF16,PHD finger protein 16,9767
+1143,1188,41_31_4,0.0637,0.00608,3.2034096,-2.55618,0.8555993,MUC3B///MUC3A,"mucin 3B, cell surface associated///mucin 3A, cell surface associated",57876///4584
+1147,1192,26_11_1,0.0639,0.00611,3.2009291,-2.56102,1.813311,TACSTD2,tumor-associated calcium signal transducer 2,4070
+1148,1193,21_21_1,0.0639,0.00611,3.2005415,-2.56178,1.056235,ATP1B3,"ATPase, Na+/K+ transporting, beta 3 polypeptide",483
+1149,1194,7_9_2,0.064,0.00613,3.1990238,-2.56474,1.4233051,PLXNA1,plexin A1,5361
+1154,1200,33_12_4,0.0646,0.00621,3.1924088,-2.57765,1.0585726,AHR,aryl hydrocarbon receptor,196
+1155,1201,39_27_4,0.0646,0.00622,3.1917961,-2.57885,1.1808637,HIST1H2BF,"histone cluster 1, H2bf",8343
+1157,1203,14_11_5,0.0647,0.00624,3.190443,-2.58149,0.9125513,CHPT1,choline phosphotransferase 1,56994
+1158,1204,18_20_5,0.0647,0.00625,3.1896323,-2.58307,0.9459148,SSR2,"signal sequence receptor, beta (translocon-associated protein beta)",6746
+1160,1206,13_4_4,0.0648,0.00626,3.1883528,-2.58557,1.1584175,HIST1H2BD,"histone cluster 1, H2bd",3017
+1162,1208,43_5_5,0.0648,0.00628,3.1870051,-2.58819,0.796673,PTH2R,parathyroid hormone 2 receptor,5746
+1167,1213,9_31_1,0.0649,0.00632,3.1840419,-2.59398,1.1539128,LOC731439///LOC647057///CA5A,"similar to carbonic anhydrase VA, mitochondrial precursor///similar to carbonic anhydrase VA, mitochondrial precursor///carbonic anhydrase VA, mitochondrial",731439///647057///763
+1168,1214,26_3_8,0.0649,0.00632,3.1839174,-2.59422,1.2036722,PARP14,"poly (ADP-ribose) polymerase family, member 14",54625
+1171,1217,37_29_1,0.065,0.00635,3.1819018,-2.59815,0.576806,ABCB4,"ATP-binding cassette, sub-family B (MDR/TAP), member 4",5244
+1174,1221,49_22_2,0.0653,0.0064,3.1779142,-2.60593,0.7589225,KCNAB2,"potassium voltage-gated channel, shaker-related subfamily, beta member 2",8514
+1178,1226,54_21_1,0.0656,0.00645,3.1736031,-2.61433,1.1411835,CD68,CD68 molecule,968
+1179,1227,30_31_3,0.0657,0.00646,3.1731577,-2.6152,0.5467733,COQ2,"coenzyme Q2 homolog, prenyltransferase (yeast)",27235
+1182,1231,29_9_1,0.066,0.00651,3.1691034,-2.62311,0.5643924,RASA1,RAS p21 protein activator (GTPase activating protein) 1,5921
+1184,1233,51_10_2,0.066,0.00653,3.1679545,-2.62535,0.6010792,FLJ23867///QSOX1,hypothetical protein FLJ23867///quiescin Q6 sulfhydryl oxidase 1,200058///5768
+1185,1234,11_21_7,0.0664,0.00657,3.1647165,-2.63166,0.7930784,FLVCR2,"feline leukemia virus subgroup C cellular receptor family, member 2",55640
+1186,1235,19_26_6,0.0666,0.0066,3.1628013,-2.63539,0.6667765,TBC1D10B,"TBC1 domain family, member 10B",26000
+1187,1236,39_17_6,0.067,0.00664,3.1596469,-2.64153,1.309061,XPO5,exportin 5,57510
+1190,1240,49_12_4,0.0676,0.00673,3.1530874,-2.65431,2.8351949,C19orf51///TNNI3,chromosome 19 open reading frame 51///troponin I type 3 (cardiac),352909///7137
+1193,1243,15_10_5,0.0679,0.00677,3.1496974,-2.66091,0.5335361,CARHSP1,"calcium regulated heat stable protein 1, 24kDa",23589
+1194,1244,5_9_2,0.0679,0.00678,3.1494252,-2.66144,1.845169,ADH6,alcohol dehydrogenase 6 (class V),130
+1201,1255,59_3_8,0.0692,0.00696,3.1362362,-2.68712,0.6723599,DNMT1,DNA (cytosine-5-)-methyltransferase 1,1786
+1204,1259,37_3_5,0.0694,0.00701,3.1330207,-2.69337,1.2049609,PRSS3,"protease, serine, 3 (mesotrypsin)",5646
+1207,1264,3_25_4,0.0701,0.0071,3.1263434,-2.70636,0.601754,STXBP1,syntaxin binding protein 1,6812
+1213,1271,29_9_4,0.0715,0.00729,3.1133352,-2.73165,1.5987692,CLDN9,claudin 9,9080
+1218,1276,15_14_3,0.0715,0.00732,3.1112606,-2.73568,1.7366112,PLEK,pleckstrin,5341
+1220,1278,42_23_1,0.0716,0.00734,3.1102327,-2.73768,1.2079203,HPN,"hepsin (transmembrane protease, serine 1)",3249
+1224,1282,20_16_1,0.0718,0.00738,3.107226,-2.74352,1.5452535,CA2,carbonic anhydrase II,760
+1231,1293,17_8_6,0.0722,0.0075,3.0996027,-2.75833,0.6336667,SEC16A,SEC16 homolog A (S. cerevisiae),9919
+1234,1296,5_9_1,0.0722,0.0075,3.0991486,-2.75921,0.8254367,GABRA6,"gamma-aminobutyric acid (GABA) A receptor, alpha 6",2559
+1237,1300,49_30_1,0.0727,0.00758,3.0938268,-2.76954,1.3483759,MSTP9,"macrophage stimulating, pseudogene 9",11223
+1240,1304,12_4_3,0.0729,0.00763,3.0907634,-2.77549,0.8959013,SYT5,synaptotagmin V,6861
+1244,1309,16_8_1,0.0731,0.00767,3.0884678,-2.77994,1.2744705,PF4,platelet factor 4 (chemokine (C-X-C motif) ligand 4),5196
+1246,1311,42_9_1,0.0732,0.0077,3.0866905,-2.78339,0.8843999,PTCH1,patched homolog 1 (Drosophila),5727
+1251,1316,32_24_2,0.0739,0.0078,3.0801609,-2.79606,0.7318003,C16orf53///MVP,chromosome 16 open reading frame 53///major vault protein,79447///9961
+1252,1317,25_20_1,0.074,0.00782,3.0788192,-2.79866,1.7576296,RUNX1,runt-related transcription factor 1 (acute myeloid leukemia 1; aml1 oncogene),861
+1259,1330,8_22_4,0.075,0.00801,3.0668612,-2.82184,1.0374404,IL18RAP,interleukin 18 receptor accessory protein,8807
+1261,1332,33_29_7,0.075,0.00802,3.0663909,-2.82275,1.8516156,CTSC,cathepsin C,1075
+1263,1334,15_27_6,0.075,0.00803,3.0658082,-2.82388,0.5056668,NARFL,nuclear prelamin A recognition factor-like,64428
+1265,1336,33_9_1,0.0751,0.00805,3.0640883,-2.82721,1.2708308,COMT,catechol-O-methyltransferase,1312
+1266,1340,20_15_1,0.0751,0.00807,3.0629713,-2.82938,0.7282936,ADK,adenosine kinase,132
+1271,1345,29_29_3,0.0759,0.00818,3.0563289,-2.84224,2.3675839,IGSF1,"immunoglobulin superfamily, member 1",3547
+1274,1348,51_9_3,0.076,0.00822,3.0541342,-2.84649,3.0041564,SPAG11A,sperm associated antigen 11A,653423
+1275,1349,20_27_4,0.0761,0.00824,3.0530068,-2.84868,0.7122735,LRAT,lecithin retinol acyltransferase (phosphatidylcholine--retinol O-acyltransferase),9227
+1277,1351,57_4_6,0.0763,0.00827,3.0508243,-2.8529,1.148888,TIPARP,TCDD-inducible poly(ADP-ribose) polymerase,25976
+1281,1356,36_2_2,0.0765,0.00832,3.0482274,-2.85793,0.8503971,DPYSL4,dihydropyrimidinase-like 4,10570
+1284,1359,19_13_7,0.0768,0.00837,3.0451678,-2.86385,0.925951,S100A10,S100 calcium binding protein A10,6281
+1285,1360,3_4_3,0.0768,0.00837,3.0448937,-2.86438,1.3200152,AURKB,aurora kinase B,9212
+1293,1368,9_24_3,0.0776,0.00851,3.0369491,-2.87975,0.5822814,CNPY3,canopy 3 homolog (zebrafish),10695
+1295,1371,1_17_6,0.0781,0.00859,3.0322447,-2.88885,0.6185716,SEPT11,septin 11,55752
+1298,1375,43_16_1,0.0786,0.00867,3.027917,-2.89721,0.7171273,FUCA1,"fucosidase, alpha-L- 1, tissue",2517
+1302,1380,11_30_1,0.0796,0.00881,3.0199201,-2.91266,2.1834835,MAOB,monoamine oxidase B,4129
+1311,1393,5_2_2,0.0811,0.00906,3.0058941,-2.93975,0.8034262,MPP2,"membrane protein, palmitoylated 2 (MAGUK p55 subfamily member 2)",4355
+1315,1398,10_13_3,0.0814,0.00912,3.0023769,-2.94653,1.518946,ADAM12,ADAM metallopeptidase domain 12 (meltrin alpha),8038
+1316,1399,4_11_4,0.0814,0.00913,3.0022586,-2.94676,0.8466541,PSD,pleckstrin and Sec7 domain containing,5662
+1318,1402,35_3_5,0.0817,0.00918,2.9991365,-2.95278,0.6974868,EEF2K,eukaryotic elongation factor-2 kinase,29904
+1319,1403,57_16_5,0.0818,0.0092,2.9982772,-2.95444,0.9562361,ABCC6,"ATP-binding cassette, sub-family C (CFTR/MRP), member 6",368
+1321,1405,23_6_6,0.082,0.00925,2.9958149,-2.95919,0.7697873,SRGAP2,SLIT-ROBO Rho GTPase activating protein 2,23380
+1322,1406,50_16_4,0.082,0.00925,2.995581,-2.95964,1.4013617,NTRK3,"neurotrophic tyrosine kinase, receptor, type 3",4916
+1323,1407,2_24_4,0.082,0.00925,2.995477,-2.95984,0.9887208,SIGLEC7,sialic acid binding Ig-like lectin 7,27036
+1326,1413,5_17_4,0.0826,0.00936,2.9896665,-2.97105,1.1907172,ST3GAL5,"ST3 beta-galactoside alpha-2,3-sialyltransferase 5",8869
+1327,1414,47_25_7,0.0826,0.00937,2.9894383,-2.97149,1.349797,BHLHB2,"basic helix-loop-helix domain containing, class B, 2",8553
+1328,1417,16_31_2,0.0829,0.00943,2.9859245,-2.97826,0.8361899,KLRC3///AP2B1,"killer cell lectin-like receptor subfamily C, member 3///adaptor-related protein complex 2, beta 1 subunit",3823///163
+1329,1418,3_25_1,0.0829,0.00943,2.9858836,-2.97834,0.9022023,MARCKS,myristoylated alanine-rich protein kinase C substrate,4082
+1333,1423,7_30_1,0.0834,0.00952,2.981278,-2.98721,1.7566442,NUDT1,nudix (nucleoside diphosphate linked moiety X)-type motif 1,4521
+1335,1425,49_9_5,0.0834,0.00953,2.9805996,-2.98852,1.4138052,BHLHB2,"basic helix-loop-helix domain containing, class B, 2",8553
+1339,1430,25_9_1,0.0835,0.00957,2.9788431,-2.9919,0.7261943,HLA-DMB,"major histocompatibility complex, class II, DM beta",3109
+1340,1431,33_29_3,0.0837,0.0096,2.9772141,-2.99504,0.8604117,ASTN1,astrotactin 1,460
+1342,1433,15_11_8,0.0838,0.00964,2.9752843,-2.99875,0.5144581,GSK3B,glycogen synthase kinase 3 beta,2932
+1343,1434,39_22_2,0.0838,0.00964,2.9749518,-2.99939,0.7102339,ADRM1,adhesion regulating molecule 1,11047
+1344,1436,11_8_2,0.0838,0.00965,2.9744113,-3.00043,1.0460217,RPL10,ribosomal protein L10,6134
+1348,1442,25_19_6,0.0847,0.00979,2.9673372,-3.01405,0.6596623,ARHGAP17,Rho GTPase activating protein 17,55114
+1353,1447,9_3_7,0.0851,0.00987,2.9633658,-3.02169,0.5306476,LOC114227///WDR26,hypothetical protein LOC114227///WD repeat domain 26,114227///80232
+1355,1449,3_18_5,0.0855,0.00993,2.9602758,-3.02764,1.3261823,PSG3///PSG1,pregnancy specific beta-1-glycoprotein 3///pregnancy specific beta-1-glycoprotein 1,5671///5669
+1356,1451,50_19_5,0.0855,0.00996,2.9588453,-3.03039,0.8356286,WIPF1,"WAS/WASL interacting protein family, member 1",7456
+1360,1456,23_3_4,0.0856,0.01,2.9569949,-3.03395,0.9211141,ACCN2,"amiloride-sensitive cation channel 2, neuronal",41
+1363,1459,60_9_3,0.0859,0.01,2.9547448,-3.03827,2.0839425,CA12,carbonic anhydrase XII,771
+1364,1461,9_2_3,0.0859,0.0101,2.9537156,-3.04025,0.5848296,CNTNAP1,contactin associated protein 1,8506
+1368,1465,25_19_1,0.0863,0.0101,2.9503564,-3.04671,0.8360845,EVPL,envoplakin,2125
+1371,1469,7_4_5,0.0866,0.0102,2.9468412,-3.05346,0.7858477,TEP1,telomerase-associated protein 1,7011
+1373,1471,40_11_3,0.0868,0.0102,2.9452462,-3.05653,0.9273924,DLEU2L///DLEU2,"deleted in lymphocytic leukemia 2-like///deleted in lymphocytic leukemia, 2",79469///8847
+1381,1481,16_26_5,0.0872,0.0104,2.9393314,-3.06789,0.8117788,ADCY6,adenylate cyclase 6,112
+1384,1484,51_17_1,0.0876,0.0104,2.936343,-3.07362,0.5874743,CHAF1B,"chromatin assembly factor 1, subunit B (p60)",8208
+1385,1485,30_7_5,0.0881,0.0105,2.9334312,-3.07921,1.219935,COMTD1,catechol-O-methyltransferase domain containing 1,118881
+1387,1487,35_5_7,0.0882,0.0105,2.931842,-3.08226,0.6226484,LEPREL1,leprecan-like 1,55214
+1388,1489,51_26_1,0.0884,0.0106,2.9301913,-3.08543,1.2454791,PAEP,"progestagen-associated endometrial protein (placental protein 14, pregnancy-associated endometrial alpha-2-globulin, alpha uterine protein)",5047
+1389,1490,60_20_1,0.0884,0.0106,2.9300583,-3.08568,1.1074223,CD44,CD44 molecule (Indian blood group),960
+1390,1492,42_2_8,0.0885,0.0106,2.9288412,-3.08802,1.8501724,PRKAG1,"protein kinase, AMP-activated, gamma 1 non-catalytic subunit",5571
+1391,1493,16_15_2,0.0885,0.0106,2.9285097,-3.08866,0.5664468,PSMA5,"proteasome (prosome, macropain) subunit, alpha type, 5",5686
+1393,1495,11_25_1,0.0887,0.0106,2.9264163,-3.09267,1.7757423,MUC1,"mucin 1, cell surface associated",4582
+1395,1497,17_17_3,0.0887,0.0106,2.9256659,-3.09411,0.8974782,SF3B3,"splicing factor 3b, subunit 3, 130kDa",23450
+1398,1504,31_8_1,0.0897,0.0108,2.917774,-3.10924,1.0063729,ETV4,"ets variant gene 4 (E1A enhancer binding protein, E1AF)",2118
+1399,1505,48_11_2,0.0898,0.0108,2.917277,-3.11019,0.7137224,SLC20A1,"solute carrier family 20 (phosphate transporter), member 1",6574
+1400,1506,6_30_6,0.09,0.0109,2.9157273,-3.11316,1.3368266,LOC727882,similar to matrix-remodelling associated 8,727882
+1401,1507,28_23_4,0.09,0.0109,2.9151586,-3.11425,0.5705673,KPNA6,karyopherin alpha 6 (importin alpha 7),23633
+1403,1509,39_10_5,0.0901,0.0109,2.9140662,-3.11635,0.6056276,HSD17B7,hydroxysteroid (17-beta) dehydrogenase 7,51478
+1404,1510,30_22_1,0.0901,0.0109,2.9139397,-3.11659,1.1692438,ZBTB17,zinc finger and BTB domain containing 17,7709
+1405,1514,47_2_2,0.0902,0.0109,2.9119002,-3.1205,1.9349828,EREG,epiregulin,2069
+1407,1517,53_17_4,0.0903,0.011,2.9105554,-3.12307,0.736266,BAT2,HLA-B associated transcript 2,7916
+1409,1519,35_19_1,0.0904,0.011,2.9086336,-3.12676,1.0170598,DPYD,dihydropyrimidine dehydrogenase,1806
+1410,1520,17_15_3,0.0904,0.011,2.9083057,-3.12738,2.2087337,KRT19,keratin 19,3880
+1412,1524,51_15_6,0.0906,0.0111,2.9062814,-3.13126,1.1615856,TMEPAI,"transmembrane, prostate androgen induced RNA",56937
+1414,1528,32_15_5,0.091,0.0111,2.9031146,-3.13732,0.9868144,PPP1R1B,"protein phosphatase 1, regulatory (inhibitor) subunit 1B (dopamine and cAMP regulated phosphoprotein, DARPP-32)",84152
+1416,1530,6_14_3,0.0912,0.0112,2.901069,-3.14124,0.5460508,LEPROTL1///PFKFB1,"leptin receptor overlapping transcript-like 1///6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 1",23484///5207
+1417,1531,36_10_1,0.0912,0.0112,2.9008232,-3.14171,0.5192935,MGAT3,"mannosyl (beta-1,4-)-glycoprotein beta-1,4-N-acetylglucosaminyltransferase",4248
+1418,1533,49_21_1,0.0914,0.0112,2.8991935,-3.14483,1.5206332,PCSK2,proprotein convertase subtilisin/kexin type 2,5126
+1419,1534,43_8_7,0.0914,0.0112,2.8987035,-3.14577,0.752296,FLJ23867///QSOX1,hypothetical protein FLJ23867///quiescin Q6 sulfhydryl oxidase 1,200058///5768
+1431,1553,1_2_8,0.0941,0.0117,2.8781449,-3.18507,0.80317,YWHAH,"tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, eta polypeptide",7533
+1432,1555,50_20_6,0.0945,0.0118,2.8752943,-3.19052,0.5591939,TDP1,tyrosyl-DNA phosphodiesterase 1,55775
+1434,1557,25_21_4,0.0945,0.0118,2.8747732,-3.19151,0.6977754,C14orf24,chromosome 14 open reading frame 24,283635
+1435,1559,12_5_4,0.0947,0.0118,2.8728824,-3.19512,0.8378956,PLOD3,"procollagen-lysine, 2-oxoglutarate 5-dioxygenase 3",8985
+1436,1560,36_23_7,0.0948,0.0119,2.8722862,-3.19626,0.6549563,ADK,adenosine kinase,132
+1439,1565,56_9_2,0.0963,0.0121,2.8626578,-3.21463,1.0301322,NELL2,NEL-like 2 (chicken),4753
+1441,1567,33_15_1,0.0963,0.0121,2.8622381,-3.21543,1.8325633,GAP43,growth associated protein 43,2596
+1442,1568,29_26_1,0.0963,0.0121,2.8620246,-3.21584,1.3923563,RAP1GAP,RAP1 GTPase activating protein,5909
+1447,1573,4_18_2,0.0967,0.0122,2.8582891,-3.22296,0.6508151,RFX5,"regulatory factor X, 5 (influences HLA class II expression)",5993
+1451,1578,18_4_2,0.0974,0.0123,2.852978,-3.23309,0.8460003,EMP3,epithelial membrane protein 3,2014
+1452,1579,3_8_4,0.0974,0.0123,2.8528347,-3.23336,0.7345371,CD247,CD247 molecule,919
+1455,1582,22_8_4,0.0979,0.0124,2.8489996,-3.24067,1.6386976,PDE5A,"phosphodiesterase 5A, cGMP-specific",8654
+1457,1584,40_18_1,0.0981,0.0125,2.847383,-3.24375,0.8134687,SDHB,"succinate dehydrogenase complex, subunit B, iron sulfur (Ip)",6390
+1458,1585,28_6_2,0.0982,0.0125,2.84664,-3.24516,0.5793181,RBMS2,"RNA binding motif, single stranded interacting protein 2",5939
+1460,1587,2_22_4,0.0984,0.0125,2.8448863,-3.2485,0.6357552,WDHD1,WD repeat and HMG-box DNA binding protein 1,11169
+1461,1589,10_16_2,0.099,0.0126,2.8415812,-3.2548,1.1170602,LDLR,low density lipoprotein receptor (familial hypercholesterolemia),3949
+1462,1590,11_8_1,0.099,0.0126,2.8413106,-3.25531,0.5126393,BPGM,"2,3-bisphosphoglycerate mutase",669
+1463,1591,11_19_1,0.099,0.0126,2.8409888,-3.25592,0.9728164,EPOR,erythropoietin receptor,2057
+1466,1595,6_12_4,0.0991,0.0127,2.8392861,-3.25917,0.6524927,ST8SIA4,"ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 4",7903
+1467,1596,59_9_4,0.0991,0.0127,2.8389303,-3.25984,0.9069613,HMHA1,histocompatibility (minor) HA-1,23526
+1472,1601,29_8_1,0.0995,0.0128,2.8353038,-3.26674,0.7943291,ITGA6,"integrin, alpha 6",3655
+1473,1604,55_31_7,0.1,0.0129,2.8319512,-3.27312,0.5525115,KIAA1370,KIAA1370,56204
+1475,1606,2_23_5,0.1,0.0129,2.8297645,-3.27728,0.9293773,CPM,carboxypeptidase M,1368
+1476,1608,36_13_4,0.1,0.0129,2.8290216,-3.27869,1.3692508,LILRB4,"leukocyte immunoglobulin-like receptor, subfamily B (with TM and ITIM domains), member 4",11006
+1477,1610,3_6_4,0.1,0.013,2.8276067,-3.28138,0.5645176,TEKT2,tektin 2 (testicular),27285
+1481,1616,2_9_2,0.101,0.0131,2.82243,-3.29122,0.5949317,ABCC5,"ATP-binding cassette, sub-family C (CFTR/MRP), member 5",10057
+1482,1617,26_8_1,0.101,0.0131,2.8216893,-3.29263,1.6601033,TCF3,transcription factor 3 (E2A immunoglobulin enhancer binding factors E12/E47),6929
+1484,1619,1_11_5,0.101,0.0131,2.8206926,-3.29452,0.8700522,RHBDD2,rhomboid domain containing 2,57414
+1486,1621,10_17_2,0.101,0.0132,2.8194285,-3.29692,1.0392453,SDS,serine dehydratase,10993
+1488,1624,29_4_4,0.102,0.0132,2.8176751,-3.30026,0.7084647,STXBP1,syntaxin binding protein 1,6812
+1491,1627,36_28_5,0.102,0.0133,2.8163181,-3.30283,0.678165,TMEM87A,transmembrane protein 87A,25963
+1493,1629,29_12_7,0.102,0.0133,2.8130826,-3.30898,0.6629877,DNMT1,DNA (cytosine-5-)-methyltransferase 1,1786
+1498,1636,41_15_6,0.103,0.0134,2.8095002,-3.31578,0.9271053,LOC730427///NAV2,similar to neuron navigator 2 isoform 2///neuron navigator 2,730427///89797
+1500,1638,1_22_2,0.103,0.0135,2.8076994,-3.31919,0.865454,ST14,suppression of tumorigenicity 14 (colon carcinoma),6768
+1503,1642,16_22_6,0.103,0.0135,2.8056882,-3.32301,1.0358631,KLHDC4,kelch domain containing 4,54758
+1507,1648,16_21_1,0.103,0.0136,2.8026864,-3.3287,0.7059102,HCFC1R1,host cell factor C1 regulator 1 (XPO1 dependent),54985
+1508,1650,14_27_7,0.103,0.0136,2.8024984,-3.32906,1.3380334,HIST1H2AC,"histone cluster 1, H2ac",8334
+1509,1651,5_14_7,0.103,0.0136,2.8022047,-3.32962,1.4844307,ARAF,v-raf murine sarcoma 3611 viral oncogene homolog,369
+1510,1652,24_8_5,0.103,0.0137,2.8015176,-3.33092,0.9349756,KDELR3///DDX17,KDEL (Lys-Asp-Glu-Leu) endoplasmic reticulum protein retention receptor 3///DEAD (Asp-Glu-Ala-Asp) box polypeptide 17,11015///10521
+1511,1653,4_9_2,0.103,0.0137,2.8002268,-3.33337,1.3450443,CCL13,chemokine (C-C motif) ligand 13,6357
+1515,1658,52_30_7,0.104,0.0138,2.7977209,-3.33812,1.6130194,TIMP1,TIMP metallopeptidase inhibitor 1,7076
+1516,1661,18_30_2,0.104,0.0139,2.7946547,-3.34393,1.4799046,AFF3,"AF4/FMR2 family, member 3",3899
+1520,1666,27_21_6,0.105,0.014,2.7900249,-3.3527,0.7121723,EXOC1,exocyst complex component 1,55763
+1524,1673,38_20_2,0.105,0.0141,2.7858216,-3.36066,1.1310051,RHAG,Rh-associated glycoprotein,6005
+1526,1678,20_31_4,0.107,0.0143,2.7774981,-3.37641,0.6278931,MGC22265///GUSBP1///SMA4,"hypothetical protein MGC22265///glucuronidase, beta pseudogene 1///glucuronidase, beta pseudogene",349035///153561///11039
+1527,1679,6_5_2,0.107,0.0144,2.7760232,-3.3792,0.9991481,NCR3,natural cytotoxicity triggering receptor 3,259197
+1528,1680,10_3_3,0.107,0.0144,2.775926,-3.37938,1.6172833,TRIM29,tripartite motif-containing 29,23650
+1531,1685,38_8_2,0.107,0.0145,2.7719542,-3.38689,0.7249968,MTMR11,myotubularin related protein 11,10903
+1532,1686,5_22_7,0.107,0.0145,2.7716689,-3.38743,0.7565084,CDC25B,cell division cycle 25 homolog B (S. pombe),994
+1533,1687,29_18_6,0.107,0.0145,2.7716598,-3.38745,0.6360502,TRIM11,tripartite motif-containing 11,81559
+1534,1688,10_29_5,0.107,0.0145,2.7714503,-3.38785,0.5371162,SEC31A,SEC31 homolog A (S. cerevisiae),22872
+1535,1689,5_30_1,0.107,0.0145,2.7711987,-3.38832,0.890124,NF2,neurofibromin 2 (bilateral acoustic neuroma),4771
+1536,1690,54_9_5,0.107,0.0145,2.7704199,-3.38979,1.3321622,B3GAT1,"beta-1,3-glucuronyltransferase 1 (glucuronosyltransferase P)",27087
+1537,1692,51_20_5,0.108,0.0146,2.7679037,-3.39455,0.6191216,PDSS2,"prenyl (decaprenyl) diphosphate synthase, subunit 2",57107
+1538,1693,22_28_2,0.108,0.0146,2.7666061,-3.397,0.9534233,IFI27,"interferon, alpha-inducible protein 27",3429
+1541,1696,50_13_4,0.109,0.0148,2.7607956,-3.40798,1.1614474,CD70,CD70 molecule,970
+1542,1697,59_30_1,0.109,0.0149,2.7590615,-3.41125,0.7901435,LGALS3,"lectin, galactoside-binding, soluble, 3",3958
+1545,1702,32_16_1,0.109,0.0149,2.7571685,-3.41482,2.3068747,PLAU,"plasminogen activator, urokinase",5328
+1547,1704,12_21_2,0.11,0.015,2.7556747,-3.41764,0.6215444,TMEM151B,transmembrane protein 151B,441151
+1548,1705,2_28_2,0.11,0.015,2.75467,-3.41954,0.6264093,KIF2C,kinesin family member 2C,11004
+1550,1707,22_7_3,0.11,0.015,2.7535039,-3.42174,1.045855,CALB1,"calbindin 1, 28kDa",793
+1551,1708,28_15_7,0.11,0.0151,2.752898,-3.42288,0.5342788,ENDOGL1,endonuclease G-like 1,9941
+1552,1709,48_28_5,0.11,0.0151,2.7525773,-3.42349,1.6484676,RIMBP2,RIMS binding protein 2,23504
+1553,1711,34_26_1,0.11,0.0151,2.7519458,-3.42468,1.5004837,CSF1R,"colony stimulating factor 1 receptor, formerly McDonough feline sarcoma viral (v-fms) oncogene homolog",1436
+1554,1712,15_4_4,0.11,0.0151,2.7518383,-3.42488,0.9367714,SLC22A11,"solute carrier family 22 (organic anion/cation transporter), member 11",55867
+1560,1720,50_9_5,0.112,0.0154,2.7421605,-3.44313,0.685692,ASPHD2,aspartate beta-hydroxylase domain containing 2,57168
+1561,1721,18_29_2,0.112,0.0154,2.7415411,-3.44429,0.9364489,ISG15,ISG15 ubiquitin-like modifier,9636
+1562,1722,5_25_1,0.112,0.0154,2.7414892,-3.44439,0.8522552,MTM1,myotubularin 1,4534
+1563,1723,27_7_5,0.112,0.0154,2.7410442,-3.44523,0.8968288,GIF,gastric intrinsic factor (vitamin B synthesis),2694
+1564,1724,5_18_2,0.112,0.0154,2.7408832,-3.44553,0.6964577,LGALS9,"lectin, galactoside-binding, soluble, 9 (galectin 9)",3965
+1573,1737,17_11_7,0.114,0.0158,2.728249,-3.46932,0.5536299,MNAT1,"menage a trois homolog 1, cyclin H assembly factor (Xenopus laevis)",4331
+1574,1739,10_2_2,0.114,0.0158,2.7273846,-3.47095,2.2590615,SPP2,"secreted phosphoprotein 2, 24kDa",6694
+1580,1746,40_11_7,0.114,0.0159,2.7246426,-3.47611,0.7123135,PLD3,"phospholipase D family, member 3",23646
+1584,1753,19_26_1,0.114,0.016,2.7210032,-3.48295,2.2250371,IL8,interleukin 8,3576
+1587,1760,33_12_1,0.115,0.0162,2.7170789,-3.49032,1.0128864,MITF,microphthalmia-associated transcription factor,4286
+1590,1765,30_29_3,0.115,0.0163,2.7143334,-3.49548,0.8234306,RASAL2,RAS protein activator like 2,9462
+1591,1767,1_3_3,0.115,0.0163,2.7129801,-3.49802,0.5468509,DYNLL1,"dynein, light chain, LC8-type 1",8655
+1592,1768,49_28_7,0.115,0.0163,2.7123208,-3.49926,0.765151,BMF,Bcl2 modifying factor,90427
+1593,1769,50_7_8,0.115,0.0164,2.7114312,-3.50093,0.8109961,SERPINB2,"serpin peptidase inhibitor, clade B (ovalbumin), member 2",5055
+1594,1770,3_22_1,0.115,0.0164,2.7114184,-3.50096,1.348595,HNRPA1L-2///HNRNPA1,heterogeneous nuclear ribonucleoprotein A1 pseudogene///heterogeneous nuclear ribonucleoprotein A1,664709///3178
+1597,1773,27_28_1,0.116,0.0165,2.7073599,-3.50858,1.6262433,NR4A1,"nuclear receptor subfamily 4, group A, member 1",3164
+1600,1776,1_2_5,0.117,0.0166,2.7037909,-3.51527,0.9432572,ATP9A///ONECUT2,"ATPase, class II, type 9A///one cut homeobox 2",10079///9480
+1601,1777,1_27_7,0.117,0.0166,2.7033212,-3.51615,1.3981648,SRRM2,serine/arginine repetitive matrix 2,23524
+1602,1778,14_22_1,0.117,0.0166,2.7027262,-3.51727,0.6815461,REL,v-rel reticuloendotheliosis viral oncogene homolog (avian),5966
+1606,1783,41_2_2,0.117,0.0167,2.7017048,-3.51919,0.6192229,LENG4,leukocyte receptor cluster (LRC) member 4,79143
+1613,1792,49_8_2,0.118,0.0169,2.6939179,-3.53379,0.5689393,RELA,"v-rel reticuloendotheliosis viral oncogene homolog A, nuclear factor of kappa light polypeptide gene enhancer in B-cells 3, p65 (avian)",5970
+1618,1799,35_14_5,0.118,0.017,2.6917408,-3.53787,1.0226223,ARMCX3,"armadillo repeat containing, X-linked 3",51566
+1620,1801,37_23_2,0.118,0.0171,2.6900057,-3.54112,0.8145307,KARS,lysyl-tRNA synthetase,3735
+1621,1802,7_9_5,0.118,0.0171,2.6895278,-3.54201,2.7478117,OPCML,opioid binding protein/cell adhesion molecule-like,4978
+1623,1806,8_9_2,0.118,0.0171,2.6875436,-3.54573,0.5793854,LOC647310///MTA1,similar to testis expressed gene 22///metastasis associated 1,647310///9112
+1628,1813,37_23_3,0.12,0.0174,2.6793763,-3.56101,0.9815965,HPSE,heparanase,10855
+1630,1817,5_12_8,0.12,0.0175,2.6764623,-3.56646,0.6591629,TOP1,topoisomerase (DNA) I,7150
+1631,1818,58_12_3,0.12,0.0175,2.6762732,-3.56682,0.5716792,NRIP3///SSX3,"nuclear receptor interacting protein 3///synovial sarcoma, X breakpoint 3",56675///10214
+1633,1820,26_8_4,0.121,0.0176,2.6743023,-3.5705,1.669598,KLK7,kallikrein-related peptidase 7,5650
+1636,1826,32_8_6,0.121,0.0177,2.6707683,-3.57711,1.4829814,XTP3TPA,XTP3-transactivated protein A,79077
+1638,1832,53_5_5,0.122,0.0179,2.6652246,-3.58746,0.9521922,TNFRSF18,"tumor necrosis factor receptor superfamily, member 18",8784
+1641,1835,21_30_4,0.122,0.018,2.6643081,-3.58918,0.6934121,HIST1H2AL,"histone cluster 1, H2al",8332
+1648,1843,16_9_4,0.122,0.0181,2.6610812,-3.5952,1.2890671,CDX2,caudal type homeobox 2,1045
+1649,1845,60_13_4,0.122,0.0181,2.6605001,-3.59628,0.7314429,H2AFV,"H2A histone family, member V",94239
+1651,1847,18_6_3,0.123,0.0181,2.6593117,-3.5985,0.8392877,CSTA,cystatin A (stefin A),1475
+1652,1851,5_29_3,0.123,0.0182,2.6575007,-3.60188,0.6773096,LHFPL2,lipoma HMGIC fusion partner-like 2,10184
+1654,1856,14_21_2,0.123,0.0183,2.6553844,-3.60583,0.6883808,HDHD1A,haloacid dehalogenase-like hydrolase domain containing 1A,8226
+1656,1860,16_28_6,0.123,0.0184,2.6523116,-3.61156,0.8165927,SUV420H1,suppressor of variegation 4-20 homolog 1 (Drosophila),51111
+1658,1862,25_19_3,0.124,0.0184,2.6507718,-3.61443,1.3214196,COX10,"COX10 homolog, cytochrome c oxidase assembly protein, heme A: farnesyltransferase (yeast)",1352
+1660,1864,51_26_4,0.124,0.0185,2.6502669,-3.61537,0.6043617,TESK2,testis-specific kinase 2,10420
+1664,1869,24_20_5,0.124,0.0186,2.6470006,-3.62146,0.9704461,SLC6A6,"solute carrier family 6 (neurotransmitter transporter, taurine), member 6",6533
+1665,1871,5_27_1,0.124,0.0186,2.6460084,-3.62331,1.8992258,RBP3,"retinol binding protein 3, interstitial",5949
+1672,1881,12_12_3,0.125,0.0188,2.6407364,-3.63312,2.1713749,CXCL13,chemokine (C-X-C motif) ligand 13 (B-cell chemoattractant),10563
+1675,1885,4_6_8,0.125,0.0189,2.6398186,-3.63483,1.5294693,FNDC4,fibronectin type III domain containing 4,64838
+1677,1887,27_15_4,0.125,0.0189,2.6392659,-3.63586,0.8257321,CCND3,cyclin D3,896
+1679,1892,54_5_2,0.125,0.019,2.6349243,-3.64394,2.062155,INPP5D,"inositol polyphosphate-5-phosphatase, 145kDa",3635
+1680,1896,10_3_4,0.125,0.0191,2.6339129,-3.64582,1.4975122,KCNH3,"potassium voltage-gated channel, subfamily H (eag-related), member 3",23416
+1682,1898,50_28_1,0.126,0.0191,2.6327123,-3.64806,0.7829809,RAB3A,"RAB3A, member RAS oncogene family",5864
+1683,1899,4_9_4,0.126,0.0191,2.6325714,-3.64832,0.6505202,SLC15A1,"solute carrier family 15 (oligopeptide transporter), member 1",6564
+1684,1900,54_18_1,0.126,0.0191,2.632549,-3.64836,1.1101705,ANK1,"ankyrin 1, erythrocytic",286
+1685,1901,35_24_1,0.126,0.0192,2.6318491,-3.64966,0.5235171,LOX,lysyl oxidase,4015
+1687,1903,8_7_3,0.126,0.0192,2.6310636,-3.65112,0.5911133,CAPN3,"calpain 3, (p94)",825
+1689,1905,7_3_5,0.126,0.0192,2.6308446,-3.65153,0.7056089,ZBTB10,zinc finger and BTB domain containing 10,65986
+1690,1906,39_11_8,0.126,0.0192,2.6307618,-3.65168,0.5511121,CHAF1B,"chromatin assembly factor 1, subunit B (p60)",8208
+1696,1913,12_7_5,0.126,0.0194,2.6254158,-3.66162,0.6045471,KCNG1,"potassium voltage-gated channel, subfamily G, member 1",3755
+1697,1914,16_2_8,0.127,0.0195,2.623757,-3.6647,1.0357131,PLA2G5,"phospholipase A2, group V",5322
+1698,1915,30_3_8,0.127,0.0195,2.6217212,-3.66848,0.5495603,UBFD1,ubiquitin family domain containing 1,56061
+1705,1925,6_2_2,0.129,0.02,2.6104521,-3.68939,1.3162201,HIST1H2BC,"histone cluster 1, H2bc",8347
+1706,1926,2_16_6,0.13,0.0201,2.6083517,-3.69329,0.6443555,C14orf132,chromosome 14 open reading frame 132,56967
+1709,1929,15_9_4,0.13,0.0201,2.6074962,-3.69487,0.5283127,LOC645619,"similar to Adenylate kinase isoenzyme 4, mitochondrial (ATP-AMP transphosphorylase)",645619
+1712,1934,15_14_2,0.131,0.0203,2.6034307,-3.70241,0.6412401,MARCH6,membrane-associated ring finger (C3HC4) 6,10299
+1714,1936,50_12_3,0.131,0.0203,2.6029882,-3.70323,0.6590709,PIP4K2A,"phosphatidylinositol-5-phosphate 4-kinase, type II, alpha",5305
+1715,1939,3_13_2,0.131,0.0203,2.6022769,-3.70455,1.0393108,ZNF148///TSPO,zinc finger protein 148///translocator protein (18kDa),7707///706
+1717,1941,27_2_4,0.131,0.0204,2.6000434,-3.70868,0.9222275,RPA1,"replication protein A1, 70kDa",6117
+1718,1943,26_18_5,0.131,0.0204,2.5994089,-3.70986,0.5198007,ST6GALNAC6,"ST6 (alpha-N-acetyl-neuraminyl-2,3-beta-galactosyl-1,3)-N-acetylgalactosaminide alpha-2,6-sialyltransferase 6",30815
+1719,1944,26_29_2,0.131,0.0204,2.5988269,-3.71094,0.5238843,UCHL1,ubiquitin carboxyl-terminal esterase L1 (ubiquitin thiolesterase),7345
+1720,1945,21_14_4,0.131,0.0205,2.5979534,-3.71255,0.6377551,LHB,luteinizing hormone beta polypeptide,3972
+1721,1946,22_24_2,0.132,0.0206,2.5952519,-3.71755,1.2770111,FCER1G,"Fc fragment of IgE, high affinity I, receptor for; gamma polypeptide",2207
+1722,1948,12_27_3,0.132,0.0206,2.5941382,-3.71961,0.6193583,HPCAL1,hippocalcin-like 1,3241
+1724,1950,18_12_1,0.132,0.0207,2.5922948,-3.72302,1.4846421,LIMK1,LIM domain kinase 1,3984
+1726,1952,40_5_4,0.133,0.0207,2.5913578,-3.72476,1.4249145,KCNK7,"potassium channel, subfamily K, member 7",10089
+1727,1953,23_11_1,0.133,0.0208,2.5907022,-3.72597,1.1430555,CASR,"calcium-sensing receptor (hypocalciuric hypercalcemia 1, severe neonatal hyperparathyroidism)",846
+1728,1954,3_16_1,0.133,0.0208,2.5889921,-3.72913,0.5420743,DAP3,death associated protein 3,7818
+1730,1956,16_21_4,0.133,0.0209,2.5871747,-3.73249,0.8068494,SOX10,SRY (sex determining region Y)-box 10,6663
+1731,1957,46_27_1,0.134,0.0209,2.5865958,-3.73356,1.8738167,ATP7B,"ATPase, Cu++ transporting, beta polypeptide",540
+1733,1960,27_3_2,0.134,0.0211,2.5831254,-3.73997,0.6411015,CUGBP2,"CUG triplet repeat, RNA binding protein 2",10659
+1738,1968,12_22_3,0.135,0.0212,2.5792739,-3.74709,0.8503203,LOC387820///ATXN10,"similar to DnaJ (Hsp40) homolog, subfamily B, member 6 isoform a///ataxin 10",387820///25814
+1739,1969,56_8_7,0.135,0.0213,2.5791511,-3.74731,1.4711374,ADM,adrenomedullin,133
+1741,1972,42_11_5,0.135,0.0213,2.5768483,-3.75157,0.9981256,LZTS1,"leucine zipper, putative tumor suppressor 1",11178
+1744,1975,53_3_4,0.135,0.0214,2.5756671,-3.75375,0.6280347,CD82,CD82 molecule,3732
+1745,1976,3_14_7,0.135,0.0214,2.5755533,-3.75396,1.3109149,CRABP2,cellular retinoic acid binding protein 2,1382
+1746,1978,42_2_4,0.135,0.0214,2.5748154,-3.75532,1.3462653,ST3GAL6,"ST3 beta-galactoside alpha-2,3-sialyltransferase 6",10402
+1748,1980,1_6_3,0.136,0.0215,2.5725217,-3.75955,0.564145,MAP2K5,mitogen-activated protein kinase kinase 5,5607
+1749,1981,44_31_2,0.136,0.0216,2.5714591,-3.76151,0.8684798,NEFM,"neurofilament, medium polypeptide 150kDa",4741
+1750,1982,37_22_1,0.136,0.0216,2.5712426,-3.76191,1.5682349,PVALB,parvalbumin,5816
+1751,1983,21_9_2,0.136,0.0216,2.5702055,-3.76382,0.6384328,UBE2S,ubiquitin-conjugating enzyme E2S,27338
+1752,1985,12_31_6,0.136,0.0216,2.5698687,-3.76444,0.5231212,DLC1,deleted in liver cancer 1,10395
+1754,1987,2_3_2,0.136,0.0217,2.5692666,-3.76555,1.1249632,HBE1,"hemoglobin, epsilon 1",3046
+1763,2000,38_16_2,0.137,0.022,2.5606234,-3.78148,1.0965537,CFHR3///CFHR4///CFHR1,complement factor H-related 3///complement factor H-related 4///complement factor H-related 1,10878///10877///3078
+1765,2002,5_3_5,0.137,0.0221,2.5604387,-3.78182,1.2630898,PARK2,"Parkinson disease (autosomal recessive, juvenile) 2, parkin",5071
+1767,2004,25_21_5,0.137,0.0221,2.5601995,-3.78226,1.0157555,GPR85,G protein-coupled receptor 85,54329
+1768,2005,49_19_6,0.137,0.0221,2.5597845,-3.78303,0.6897172,DCBLD2,"discoidin, CUB and LCCL domain containing 2",131566
+1770,2007,29_25_2,0.137,0.0221,2.5593422,-3.78384,0.5958393,TSPAN3,tetraspanin 3,10099
+1771,2008,46_18_2,0.137,0.0221,2.5587959,-3.78485,0.8329241,PLK3,polo-like kinase 3 (Drosophila),1263
+1772,2009,47_10_1,0.138,0.0222,2.5579272,-3.78645,1.8611203,CXCL10,chemokine (C-X-C motif) ligand 10,3627
+1773,2010,42_16_7,0.138,0.0222,2.5566506,-3.7888,1.5611172,TREM1,triggering receptor expressed on myeloid cells 1,54210
+1776,2014,5_8_7,0.138,0.0222,2.5559434,-3.7901,1.7660295,CYC1,cytochrome c-1,1537
+1777,2016,47_10_4,0.138,0.0224,2.553409,-3.79476,1.1825859,SLC4A7,"solute carrier family 4, sodium bicarbonate cotransporter, member 7",9497
+1780,2021,24_24_4,0.139,0.0225,2.551296,-3.79865,2.0085455,ALOX15B,"arachidonate 15-lipoxygenase, type B",247
+1782,2024,35_26_5,0.139,0.0225,2.5500906,-3.80086,2.1555338,SPOCK2,"sparc/osteonectin, cwcv and kazal-like domains proteoglycan (testican) 2",9806
+1783,2025,57_28_1,0.139,0.0225,2.5491438,-3.80261,3.0390786,GSTT1,glutathione S-transferase theta 1,2952
+1785,2027,32_6_4,0.139,0.0226,2.5477543,-3.80516,1.8940765,RFC2,"replication factor C (activator 1) 2, 40kDa",5982
+1788,2030,11_7_6,0.139,0.0227,2.5460595,-3.80827,0.6260391,PDE4DIP,phosphodiesterase 4D interacting protein (myomegalin),9659
+1789,2031,19_11_1,0.14,0.0227,2.5454662,-3.80936,0.8013399,ATP6V1B2,"ATPase, H+ transporting, lysosomal 56/58kDa, V1 subunit B2",526
+1791,2035,10_4_3,0.14,0.0228,2.5425434,-3.81473,0.5439132,TFE3,transcription factor binding to IGHM enhancer 3,7030
+1793,2039,2_22_2,0.14,0.0229,2.5412711,-3.81707,1.2009461,CTSS,cathepsin S,1520
+1795,2041,59_4_4,0.14,0.0229,2.540574,-3.81835,0.812984,CD86,CD86 molecule,942
+1798,2048,6_16_2,0.141,0.0232,2.5348144,-3.82892,0.8748654,CDC25B,cell division cycle 25 homolog B (S. pombe),994
+1799,2050,24_8_1,0.142,0.0233,2.5319936,-3.8341,0.8787337,PLCG2,"phospholipase C, gamma 2 (phosphatidylinositol-specific)",5336
+1801,2056,58_18_2,0.143,0.0235,2.5277972,-3.84179,0.5085974,IQGAP1,IQ motif containing GTPase activating protein 1,8826
+1802,2057,54_17_4,0.143,0.0236,2.5269781,-3.84329,1.0509126,HIST1H2BK,"histone cluster 1, H2bk",85236
+1803,2058,37_22_5,0.143,0.0236,2.5262287,-3.84467,0.8641704,EHD3,EH-domain containing 3,30845
+1807,2064,48_6_5,0.144,0.0238,2.5209552,-3.85433,0.7185914,PLA2G4B,"phospholipase A2, group IVB (cytosolic)",8681
+1808,2065,55_24_1,0.144,0.0238,2.5206851,-3.85482,0.9470934,KRT6C///KRT6B///KRT6A///KRT5,"keratin 6C///keratin 6B///keratin 6A///keratin 5 (epidermolysis bullosa simplex, Dowling-Meara/Kobner/Weber-Cockayne types)",286887///3854///3853///3852
+1809,2066,12_29_3,0.144,0.0239,2.5200404,-3.856,0.7047548,B4GALT5,"UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 5",9334
+1811,2068,23_5_8,0.144,0.0239,2.5186764,-3.8585,1.5199909,IL1RN,interleukin 1 receptor antagonist,3557
+1813,2071,10_30_1,0.145,0.024,2.5175936,-3.86048,0.9778292,CRYBA4,"crystallin, beta A4",1413
+1814,2072,29_12_8,0.145,0.024,2.5170749,-3.86143,0.6975194,DNMT1,DNA (cytosine-5-)-methyltransferase 1,1786
+1816,2076,27_6_2,0.145,0.0242,2.5132578,-3.86841,1.3657408,COL8A1,"collagen, type VIII, alpha 1",1295
+1817,2077,37_13_5,0.145,0.0242,2.5128837,-3.86909,2.2583899,SLC34A2,"solute carrier family 34 (sodium phosphate), member 2",10568
+1818,2079,29_27_1,0.146,0.0243,2.5101644,-3.87407,0.6681468,PTPN2,"protein tyrosine phosphatase, non-receptor type 2",5771
+1819,2080,51_5_4,0.147,0.0244,2.5079259,-3.87816,0.7330363,MYBL1,v-myb myeloblastosis viral oncogene homolog (avian)-like 1,4603
+1820,2084,3_17_5,0.147,0.0246,2.5056486,-3.88232,1.2408329,PBK,PDZ binding kinase,55872
+1822,2086,29_12_1,0.147,0.0246,2.5045542,-3.88432,0.5672613,XDH,xanthine dehydrogenase,7498
+1827,2094,34_19_1,0.148,0.0248,2.5007495,-3.89126,1.1426517,ANXA8L1,annexin A8-like 1,728113
+1828,2096,28_12_2,0.148,0.0249,2.4988583,-3.89472,0.5547856,HIST2H2BE,"histone cluster 2, H2be",8349
+1830,2098,6_19_7,0.148,0.025,2.4975089,-3.89718,0.6350112,BRUNOL4,"bruno-like 4, RNA binding protein (Drosophila)",56853
+1832,2100,45_14_7,0.149,0.025,2.4957317,-3.90042,0.76346,CD19,CD19 molecule,930
+1836,2105,33_29_1,0.149,0.0252,2.4923108,-3.90666,0.8804979,GNAZ,"guanine nucleotide binding protein (G protein), alpha z polypeptide",2781
+1838,2107,41_10_3,0.15,0.0253,2.4912573,-3.90858,0.6076254,SCARB2,"scavenger receptor class B, member 2",950
+1844,2116,54_22_1,0.15,0.0255,2.4863613,-3.9175,0.9932342,TNFRSF1B,"tumor necrosis factor receptor superfamily, member 1B",7133
+1845,2117,32_11_7,0.151,0.0255,2.4854437,-3.91917,0.8222196,SLC6A8///CLU,"solute carrier family 6 (neurotransmitter transporter, creatine), member 8///clusterin",6535///1191
+1850,2131,16_25_6,0.152,0.0259,2.4785562,-3.9317,0.8176673,DEF6,differentially expressed in FDCP 6 homolog (mouse),50619
+1851,2133,50_23_3,0.153,0.0261,2.4746415,-3.93882,0.8996787,TNFAIP8,"tumor necrosis factor, alpha-induced protein 8",25816
+1855,2142,1_26_7,0.154,0.0264,2.4688061,-3.94943,0.5100218,UPP1,uridine phosphorylase 1,7378
+1856,2143,22_5_5,0.154,0.0264,2.4677962,-3.95126,0.8859428,IVL,involucrin,3713
+1861,2150,42_24_5,0.154,0.0266,2.4655899,-3.95526,0.6410634,RFPL2,ret finger protein-like 2,10739
+1864,2154,6_12_3,0.154,0.0266,2.4652017,-3.95597,1.2444088,BASP1,"brain abundant, membrane attached signal protein 1",10409
+1865,2155,4_13_1,0.154,0.0266,2.4643342,-3.95754,0.5506829,RHOG,"ras homolog gene family, member G (rho G)",391
+1866,2156,53_12_2,0.154,0.0267,2.4636829,-3.95873,0.9184695,LOC145663///GATM,hypothetical protein LOC145663///glycine amidinotransferase (L-arginine:glycine amidinotransferase),145663///2628
+1867,2159,15_2_7,0.155,0.0267,2.4620457,-3.9617,0.9005553,PLEKHG1,"pleckstrin homology domain containing, family G (with RhoGef domain) member 1",57480
+1868,2161,39_28_1,0.155,0.0268,2.4608955,-3.96378,1.5493416,LOC729605///PAX6,"similar to paired box gene 6 (aniridia, keratitis)///paired box 6",729605///5080
+1874,2171,51_2_2,0.157,0.0274,2.4495357,-3.98437,0.6491678,SPINK2,"serine peptidase inhibitor, Kazal type 2 (acrosin-trypsin inhibitor)",6691
+1875,2172,1_2_2,0.157,0.0274,2.4495048,-3.98442,0.6830237,LOC440087///PTGS1,hypothetical gene supported by AK092637///prostaglandin-endoperoxide synthase 1 (prostaglandin G/H synthase and cyclooxygenase),440087///5742
+1876,2173,1_19_5,0.157,0.0274,2.4494283,-3.98456,0.6149044,PIGQ,"phosphatidylinositol glycan anchor biosynthesis, class Q",9091
+1878,2177,5_12_7,0.158,0.0275,2.4477364,-3.98763,0.561861,TOP1,topoisomerase (DNA) I,7150
+1879,2178,49_13_1,0.158,0.0276,2.4460182,-3.99073,0.5958058,MYL4,"myosin, light chain 4, alkali; atrial, embryonic",4635
+1880,2179,58_6_7,0.158,0.0276,2.4454428,-3.99178,0.6995548,RNF19B,ring finger protein 19B,127544
+1883,2185,44_21_2,0.159,0.0279,2.4407725,-4.00022,0.5662662,SERPINH1,"serpin peptidase inhibitor, clade H (heat shock protein 47), member 1, (collagen binding protein 1)",871
+1884,2186,28_26_4,0.16,0.028,2.4394383,-4.00263,0.7532658,B4GALT6,"UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 6",9331
+1885,2187,28_22_3,0.16,0.028,2.4392231,-4.00302,0.8279567,CROP,cisplatin resistance-associated overexpressed protein,51747
+1886,2188,12_6_8,0.16,0.028,2.4390249,-4.00338,1.0592212,CIITA,"class II, major histocompatibility complex, transactivator",4261
+1887,2190,2_7_4,0.16,0.0281,2.4372006,-4.00668,0.5175211,PIGL,"phosphatidylinositol glycan anchor biosynthesis, class L",9487
+1890,2195,15_11_4,0.16,0.0282,2.4350269,-4.0106,1.3827116,JTB,jumping translocation breakpoint,10899
+1891,2198,47_19_1,0.161,0.0283,2.4333165,-4.01369,0.8321606,CDH13,"cadherin 13, H-cadherin (heart)",1012
+1892,2200,47_3_2,0.161,0.0283,2.4326575,-4.01488,1.3441602,RUNX2,runt-related transcription factor 2,860
+1893,2201,10_18_6,0.161,0.0283,2.4324985,-4.01517,0.7327731,LMBR1,limb region 1 homolog (mouse),64327
+1894,2202,4_21_7,0.161,0.0284,2.4310106,-4.01786,0.5271424,HIF1A,"hypoxia-inducible factor 1, alpha subunit (basic helix-loop-helix transcription factor)",3091
+1896,2204,29_7_4,0.161,0.0284,2.4305502,-4.01869,1.2322136,SFTPB,"surfactant, pulmonary-associated protein B",6439
+1900,2208,40_9_1,0.162,0.0286,2.4269009,-4.02527,0.778403,PAM,peptidylglycine alpha-amidating monooxygenase,5066
+1903,2211,11_28_1,0.162,0.0287,2.4258699,-4.02713,0.8281544,AIF1,allograft inflammatory factor 1,199
+1904,2212,33_28_3,0.162,0.0287,2.4253056,-4.02815,0.8278433,CYBA,"cytochrome b-245, alpha polypeptide",1535
+1906,2214,4_27_5,0.162,0.0288,2.4246257,-4.02937,0.8846687,IQSEC3,IQ motif and Sec7 domain 3,440073
+1909,2221,25_14_4,0.163,0.0289,2.4217404,-4.03457,1.125313,HIST1H2BL,"histone cluster 1, H2bl",8340
+1911,2224,11_19_3,0.163,0.029,2.4203998,-4.03699,0.6062827,CXCL2,chemokine (C-X-C motif) ligand 2,2920
+1912,2225,8_26_1,0.163,0.0291,2.4185744,-4.04028,2.057761,CYP4A11,"cytochrome P450, family 4, subfamily A, polypeptide 11",1579
+1915,2229,16_24_6,0.163,0.0292,2.4172967,-4.04258,0.6716651,FAM102B,"family with sequence similarity 102, member B",284611
+1916,2230,10_4_8,0.163,0.0292,2.4168305,-4.04342,1.6962098,S100A2,S100 calcium binding protein A2,6273
+1920,2235,2_29_2,0.164,0.0293,2.415139,-4.04646,0.5309088,SC4MOL,sterol-C4-methyl oxidase-like,6307
+1921,2237,56_16_1,0.164,0.0294,2.4135587,-4.04931,1.0094662,TFRC,"transferrin receptor (p90, CD71)",7037
+1922,2238,59_18_1,0.164,0.0294,2.4135307,-4.04936,0.5954882,DDB2,"damage-specific DNA binding protein 2, 48kDa",1643
+1923,2239,13_19_7,0.164,0.0294,2.4135026,-4.04941,1.1239058,PHTF1,putative homeodomain transcription factor 1,10745
+1925,2242,20_27_5,0.165,0.0296,2.4106218,-4.05459,0.6912986,hCG_40738,hypothetical protein MGC22014,200424
+1927,2245,40_20_5,0.165,0.0296,2.4096552,-4.05633,0.8234257,BBC3,BCL2 binding component 3,27113
+1928,2246,33_5_2,0.165,0.0296,2.4094312,-4.05673,0.5697884,SKIL,SKI-like oncogene,6498
+1929,2247,39_8_4,0.165,0.0297,2.4089387,-4.05762,0.9689544,ELK3,"ELK3, ETS-domain protein (SRF accessory protein 2)",2004
+1931,2250,22_30_4,0.165,0.0298,2.4073091,-4.06055,0.5268742,CRYBB3,"crystallin, beta B3",1417
+1932,2251,8_6_2,0.165,0.0298,2.4068336,-4.0614,0.6941315,ZWINTAS///ZWINT,ZW10 interactor antisense///ZW10 interactor,53588///11130
+1933,2252,21_8_8,0.165,0.0298,2.4067864,-4.06149,1.4332142,CDKN1B,"cyclin-dependent kinase inhibitor 1B (p27, Kip1)",1027
+1938,2262,12_4_2,0.166,0.0302,2.4001135,-4.07347,0.7935994,ADAM8,ADAM metallopeptidase domain 8,101
+1939,2265,22_3_4,0.167,0.0303,2.3977498,-4.07771,0.9226229,RGS6,regulator of G-protein signaling 6,9628
+1943,2272,19_19_2,0.167,0.0305,2.3953233,-4.08207,1.6261073,FXYD3,FXYD domain containing ion transport regulator 3,5349
+1944,2274,24_30_2,0.167,0.0305,2.3938367,-4.08473,0.5730743,PAQR4///PKMYT1,"progestin and adipoQ receptor family member IV///protein kinase, membrane associated tyrosine/threonine 1",124222///9088
+1947,2278,50_13_3,0.167,0.0306,2.3929476,-4.08633,0.7647386,TRIO,triple functional domain (PTPRF interacting),7204
+1949,2283,8_7_8,0.168,0.0307,2.391677,-4.08861,0.5519604,LMNB2,lamin B2,84823
+1951,2285,54_24_1,0.168,0.0307,2.3911764,-4.0895,1.1008149,MDM2,"Mdm2, transformed 3T3 cell double minute 2, p53 binding protein (mouse)",4193
+1952,2286,23_30_2,0.168,0.0307,2.3907398,-4.09029,0.5644286,GIPC1,"GIPC PDZ domain containing family, member 1",10755
+1954,2289,53_29_1,0.169,0.031,2.386592,-4.09772,0.6586699,GK2,glycerol kinase 2,2712
+1955,2290,3_4_2,0.169,0.031,2.3862654,-4.0983,1.3382289,APLP1,amyloid beta (A4) precursor-like protein 1,333
+1957,2292,54_29_4,0.169,0.031,2.3859404,-4.09889,2.581915,CPNE4,copine IV,131034
+1958,2293,58_31_5,0.169,0.031,2.3854321,-4.0998,0.9848085,AUTS2,autism susceptibility candidate 2,26053
+1961,2296,8_18_1,0.169,0.0311,2.3843637,-4.10171,2.5894375,BNC1,basonuclin 1,646
+1964,2301,50_9_4,0.17,0.0313,2.3814844,-4.10686,0.9478407,OVOL1,ovo-like 1(Drosophila),5017
+1970,2314,48_22_6,0.17,0.0316,2.3761573,-4.11639,0.6475415,ACSM1///ANAPC13,acyl-CoA synthetase medium-chain family member 1///anaphase promoting complex subunit 13,116285///25847
+1972,2317,23_18_1,0.17,0.0317,2.3753479,-4.11784,0.9018356,GRIA2,"glutamate receptor, ionotropic, AMPA 2",2891
+1973,2319,9_15_1,0.171,0.0318,2.3732517,-4.12158,0.7794033,HPCA,hippocalcin,3208
+1975,2322,44_18_4,0.171,0.0318,2.372577,-4.12279,0.9318112,CDC45L,CDC45 cell division cycle 45-like (S. cerevisiae),8318
+1977,2324,14_23_7,0.171,0.0319,2.37174,-4.12428,0.6195346,LY86,lymphocyte antigen 86,9450
+1979,2326,9_12_2,0.171,0.032,2.3703842,-4.1267,1.1496509,APOM///UBTF,"apolipoprotein M///upstream binding transcription factor, RNA polymerase I",55937///7343
+1980,2328,4_7_6,0.171,0.032,2.3699799,-4.12743,0.6147935,SDC3,syndecan 3,9672
+1983,2331,31_28_6,0.172,0.0321,2.3684182,-4.13021,0.7304704,FAM108C1,"family with sequence similarity 108, member C1",58489
+1986,2334,55_9_4,0.172,0.0322,2.3661996,-4.13417,0.5339258,LASP1,LIM and SH3 protein 1,3927
+1988,2336,10_5_4,0.172,0.0322,2.3658039,-4.13488,2.5985435,WIF1,WNT inhibitory factor 1,11197
+1990,2338,46_15_7,0.173,0.0324,2.3640956,-4.13793,0.5854041,PLXND1,plexin D1,23129
+1991,2339,25_2_7,0.173,0.0324,2.3637022,-4.13863,1.5861759,FNDC4,fibronectin type III domain containing 4,64838
+1992,2343,27_12_1,0.173,0.0325,2.3611475,-4.14318,0.6905474,CRP,"C-reactive protein, pentraxin-related",1401
+1993,2347,17_8_1,0.174,0.0327,2.3584846,-4.14793,0.8297122,ADCYAP1,adenylate cyclase activating polypeptide 1 (pituitary),116
+1994,2348,11_6_4,0.174,0.0327,2.3584366,-4.14802,0.8844937,NFKBIE,"nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, epsilon",4794
+1995,2350,6_8_5,0.174,0.0328,2.3573128,-4.15002,1.5954681,SLC27A6,"solute carrier family 27 (fatty acid transporter), member 6",28965
+2000,2356,51_22_1,0.174,0.0329,2.3553794,-4.15346,1.7604884,FPR1,formyl peptide receptor 1,2357
+2003,2365,44_21_3,0.175,0.0332,2.351452,-4.16045,0.6428678,GABARAPL1,GABA(A) receptor-associated protein like 1,23710
+2004,2366,23_24_1,0.175,0.0332,2.3514236,-4.1605,0.9066735,WIBG///DGKA,"within bgcn homolog (Drosophila)///diacylglycerol kinase, alpha 80kDa",84305///1606
+2007,2370,10_7_2,0.175,0.0333,2.3493747,-4.16415,1.3499058,CDC45L,CDC45 cell division cycle 45-like (S. cerevisiae),8318
+2012,2379,40_17_7,0.176,0.0335,2.3458342,-4.17044,0.7141259,TMEPAI,"transmembrane, prostate androgen induced RNA",56937
+2014,2381,2_28_7,0.176,0.0336,2.3444194,-4.17296,0.5671397,RABIF,RAB interacting factor,5877
+2015,2386,55_8_4,0.176,0.0338,2.3412505,-4.17859,0.6890687,FLJ36000,hypothetical protein FLJ36000,284124
+2016,2387,46_25_5,0.176,0.0338,2.3411648,-4.17874,0.6078162,POU3F4,POU class 3 homeobox 4,5456
+2017,2389,28_8_4,0.176,0.0338,2.3408319,-4.17933,0.9792114,IL18,interleukin 18 (interferon-gamma-inducing factor),3606
+2018,2391,30_3_2,0.176,0.0338,2.3407043,-4.17956,0.6683803,MAP3K13,mitogen-activated protein kinase kinase kinase 13,9175
+2020,2394,55_25_1,0.176,0.0339,2.3401591,-4.18053,1.8331382,IL2RB,"interleukin 2 receptor, beta",3560
+2021,2395,34_21_3,0.176,0.0339,2.3400669,-4.18069,0.6240562,KLF12,Kruppel-like factor 12,11278
+2022,2396,55_26_1,0.176,0.0339,2.3398421,-4.18109,1.0430188,ITIH1,inter-alpha (globulin) inhibitor H1,3697
+2026,2407,40_9_7,0.177,0.0341,2.3370537,-4.18604,1.1931715,WARS,tryptophanyl-tRNA synthetase,7453
+2028,2409,38_2_5,0.177,0.0342,2.3354453,-4.18889,0.6165815,GNB2,"guanine nucleotide binding protein (G protein), beta polypeptide 2",2783
+2030,2412,37_9_1,0.177,0.0342,2.3347646,-4.1901,1.5762773,CD22,CD22 molecule,933
+2031,2416,58_29_7,0.177,0.0343,2.3339307,-4.19158,1.6311176,CD86,CD86 molecule,942
+2035,2422,18_13_4,0.177,0.0344,2.332127,-4.19478,0.7549291,LMO1,LIM domain only 1 (rhombotin 1),4004
+2036,2424,2_5_2,0.177,0.0345,2.3312251,-4.19638,1.2727406,CHN2,chimerin (chimaerin) 2,1124
+2038,2428,1_31_3,0.178,0.0346,2.329779,-4.19894,0.5109272,CLEC3A,"C-type lectin domain family 3, member A",10143
+2039,2429,60_10_1,0.178,0.0346,2.3292994,-4.19979,0.8003844,LIPC,"lipase, hepatic",3990
+2041,2434,4_8_4,0.178,0.0348,2.3268224,-4.20418,1.7249323,HRK,"harakiri, BCL2 interacting protein (contains only BH3 domain)",8739
+2042,2435,3_4_4,0.178,0.0348,2.3266576,-4.20447,0.5962969,POLG2,"polymerase (DNA directed), gamma 2, accessory subunit",11232
+2043,2436,18_24_6,0.178,0.0348,2.326563,-4.20464,0.6830872,LOC400891///LOC126917,similar to chromosome 14 open reading frame 166B///hypothetical protein LOC126917,400891///126917
+2044,2439,18_21_7,0.178,0.0348,2.3259244,-4.20577,1.0560802,KRT222P,keratin 222 pseudogene,125113
+2045,2441,29_11_8,0.178,0.0349,2.3252767,-4.20692,0.5133099,CD5,CD5 molecule,921
+2046,2442,16_5_4,0.178,0.0349,2.3251622,-4.20712,1.1935793,HAO1,hydroxyacid oxidase (glycolate oxidase) 1,54363
+2047,2444,43_28_2,0.178,0.0349,2.3248337,-4.2077,0.6724335,ARPC3,"actin related protein 2/3 complex, subunit 3, 21kDa",10094
+2050,2447,14_5_6,0.178,0.035,2.3239409,-4.20928,0.6060059,WDR62,WD repeat domain 62,284403
+2055,2455,16_5_5,0.179,0.0352,2.3196589,-4.21686,0.5502862,CDR2L,cerebellar degeneration-related protein 2-like,30850
+2056,2456,11_31_1,0.179,0.0353,2.3191241,-4.21781,0.8935422,NR3C2,"nuclear receptor subfamily 3, group C, member 2",4306
+2058,2458,11_12_2,0.179,0.0353,2.3189166,-4.21817,0.8308647,NUTF2,nuclear transport factor 2,10204
+2059,2461,4_26_4,0.18,0.0354,2.3167465,-4.22201,0.5974552,P2RY1,"purinergic receptor P2Y, G-protein coupled, 1",5028
+2060,2462,41_12_3,0.18,0.0355,2.3162546,-4.22288,0.6246936,DNMT1,DNA (cytosine-5-)-methyltransferase 1,1786
+2062,2464,9_5_3,0.18,0.0355,2.3159822,-4.22336,1.2059899,LYPD1///GPR39,LY6/PLAUR domain containing 1///G protein-coupled receptor 39,116372///2863
+2063,2466,54_30_7,0.18,0.0355,2.3154265,-4.22434,0.5554859,NRAS,neuroblastoma RAS viral (v-ras) oncogene homolog,4893
+2064,2468,59_27_1,0.18,0.0356,2.3145431,-4.2259,0.6588121,PLS1,plastin 1 (I isoform),5357
+2066,2470,15_28_2,0.18,0.0357,2.3137487,-4.22731,0.9642656,DPYS,dihydropyrimidinase,1807
+2072,2477,25_17_6,0.181,0.0359,2.3104285,-4.23317,0.5184933,ARHGAP23,Rho GTPase activating protein 23,57636
+2076,2482,39_13_2,0.181,0.0361,2.3079239,-4.23759,0.9713599,PCSK5,proprotein convertase subtilisin/kexin type 5,5125
+2077,2484,4_10_1,0.181,0.0361,2.3068508,-4.23949,0.5491039,NAGLU,"N-acetylglucosaminidase, alpha- (Sanfilippo disease IIIB)",4669
+2079,2487,12_5_5,0.182,0.0362,2.3057646,-4.2414,0.55002,PSCD2,"pleckstrin homology, Sec7 and coiled-coil domains 2 (cytohesin-2)",9266
+2080,2488,2_16_4,0.182,0.0362,2.3056927,-4.24153,1.3089048,GLYAT,glycine-N-acyltransferase,10249
+2081,2489,8_23_1,0.182,0.0362,2.3055462,-4.24179,1.1974282,SCD,stearoyl-CoA desaturase (delta-9-desaturase),6319
+2082,2490,17_10_3,0.182,0.0362,2.3054173,-4.24201,0.5441122,YARS,tyrosyl-tRNA synthetase,8565
+2083,2491,37_31_3,0.182,0.0363,2.304432,-4.24375,0.6183395,TTR,"transthyretin (prealbumin, amyloidosis type I)",7276
+2085,2493,13_11_2,0.182,0.0364,2.3028668,-4.24651,1.3284663,S100P,S100 calcium binding protein P,6286
+2087,2495,33_24_1,0.182,0.0364,2.3025456,-4.24708,1.0144515,CIITA,"class II, major histocompatibility complex, transactivator",4261
+2088,2496,13_10_1,0.182,0.0365,2.3021359,-4.2478,0.5975589,DLX4,distal-less homeobox 4,1748
+2089,2497,26_15_5,0.182,0.0365,2.3013314,-4.24922,1.9154354,EMCN,endomucin,51705
+2090,2503,51_13_1,0.183,0.0368,2.2977486,-4.25553,1.2199011,IRF4,interferon regulatory factor 4,3662
+2093,2508,43_24_4,0.184,0.037,2.2946239,-4.26103,0.5985711,DCBLD2,"discoidin, CUB and LCCL domain containing 2",131566
+2098,2521,18_19_6,0.185,0.0375,2.2876595,-4.27328,0.6151269,KIAA1598,KIAA1598,57698
+2100,2523,9_9_2,0.186,0.0375,2.2871723,-4.27414,0.7345676,SNRPA,small nuclear ribonucleoprotein polypeptide A,6626
+2107,2531,37_8_4,0.187,0.0379,2.2820464,-4.28314,1.0898521,POU2AF1,POU class 2 associating factor 1,5450
+2109,2535,16_17_2,0.187,0.038,2.2811536,-4.28471,0.6189843,MAP2K1,mitogen-activated protein kinase kinase 1,5604
+2110,2536,2_22_1,0.187,0.038,2.2803913,-4.28605,1.1115013,SPTA1,"spectrin, alpha, erythrocytic 1 (elliptocytosis 2)",6708
+2112,2542,12_16_2,0.187,0.0381,2.2785773,-4.28923,0.6638288,SERPINB1,"serpin peptidase inhibitor, clade B (ovalbumin), member 1",1992
+2114,2545,24_23_3,0.188,0.0383,2.2767049,-4.29251,0.5841069,FAM128A///LOC646836///FAM128B,"family with sequence similarity 128, member A///similar to CDC42-binding protein kinase beta///family with sequence similarity 128, member B",653784///646836///80097
+2115,2546,7_29_7,0.188,0.0383,2.2763241,-4.29318,0.7394485,MGC29506,hypothetical protein MGC29506,51237
+2117,2551,51_29_7,0.188,0.0384,2.2747729,-4.2959,0.508553,BMF,Bcl2 modifying factor,90427
+2118,2552,29_15_6,0.188,0.0385,2.274183,-4.29694,1.3996925,TUSC3,tumor suppressor candidate 3,7991
+2119,2554,10_29_2,0.189,0.0386,2.2723499,-4.30015,0.8981528,HNF1B,HNF1 homeobox B,6928
+2121,2557,60_18_1,0.189,0.0387,2.2715911,-4.30148,0.64787,ABP1,amiloride binding protein 1 (amine oxidase (copper-containing)),26
+2123,2560,48_20_1,0.189,0.0388,2.2702041,-4.30391,1.0724289,OXTR,oxytocin receptor,5021
+2124,2561,54_31_1,0.189,0.0388,2.2700542,-4.30417,1.2780012,AFP,alpha-fetoprotein,174
+2125,2563,38_26_3,0.189,0.0389,2.2685272,-4.30684,3.0665235,IL24///FAIM3,interleukin 24///Fas apoptotic inhibitory molecule 3,11009///9214
+2127,2565,24_27_4,0.189,0.0389,2.2680186,-4.30773,1.1248664,TECTA,tectorin alpha,7007
+2128,2566,6_16_7,0.189,0.039,2.2673145,-4.30897,0.5007874,MTUS1,mitochondrial tumor suppressor 1,57509
+2130,2569,60_23_6,0.19,0.0391,2.2662357,-4.31086,0.55796,NPAL3,NIPA-like domain containing 3,57185
+2132,2573,39_23_3,0.19,0.0392,2.2640216,-4.31473,1.4020209,ATP10A,"ATPase, class V, type 10A",57194
+2133,2577,26_7_2,0.19,0.0393,2.2633077,-4.31598,0.9009889,CPT1B///CHKB,carnitine palmitoyltransferase 1B (muscle)///choline kinase beta,1375///1120
+2135,2580,5_26_6,0.19,0.0394,2.2617829,-4.31864,0.6492336,TCTN3,tectonic family member 3,26123
+2136,2581,26_2_2,0.191,0.0394,2.2615156,-4.31911,1.1412469,KRT14,"keratin 14 (epidermolysis bullosa simplex, Dowling-Meara, Koebner)",3861
+2137,2582,12_13_7,0.191,0.0394,2.2612582,-4.31956,1.7279405,S100A2,S100 calcium binding protein A2,6273
+2139,2586,50_20_1,0.191,0.0396,2.2595081,-4.32262,1.44933,F13A1,"coagulation factor XIII, A1 polypeptide",2162
+2141,2589,9_13_6,0.191,0.0397,2.2583017,-4.32473,0.5202643,TANC2,"tetratricopeptide repeat, ankyrin repeat and coiled-coil containing 2",26115
+2142,2590,43_4_4,0.191,0.0397,2.2580598,-4.32515,0.952793,KCNA5,"potassium voltage-gated channel, shaker-related subfamily, member 5",3741
+2143,2591,6_3_5,0.191,0.0397,2.2579623,-4.32532,2.1202319,PRSS1,"protease, serine, 1 (trypsin 1)",5644
+2144,2596,39_21_5,0.191,0.0398,2.2560018,-4.32875,1.8869055,PRSS2///PRSS1,"protease, serine, 2 (trypsin 2)///protease, serine, 1 (trypsin 1)",5645///5644
+2146,2600,36_4_4,0.192,0.0399,2.2548637,-4.33073,0.6843891,WBP1,WW domain binding protein 1,23559
+2148,2603,15_11_2,0.192,0.04,2.2531058,-4.3338,1.0573534,BRD2,bromodomain containing 2,6046
+2149,2605,19_13_1,0.192,0.0401,2.2528833,-4.33419,1.1095695,CAMK4,calcium/calmodulin-dependent protein kinase IV,814
+2150,2606,12_5_3,0.192,0.0402,2.2511358,-4.33724,0.9261255,RUNX3,runt-related transcription factor 3,864
+2151,2607,16_20_4,0.192,0.0402,2.2508889,-4.33767,0.5424974,POLH,"polymerase (DNA directed), eta",5429
+2152,2613,14_26_6,0.193,0.0404,2.2488219,-4.34127,1.6876476,C21orf59,chromosome 21 open reading frame 59,56683
+2153,2615,54_13_4,0.193,0.0404,2.247912,-4.34286,0.8233123,MTRF1,mitochondrial translational release factor 1,9617
+2154,2616,25_18_2,0.193,0.0405,2.247327,-4.34388,0.6903575,CD151,CD151 molecule (Raph blood group),977
+2158,2625,53_16_7,0.194,0.0408,2.2438904,-4.34987,0.7794839,LILRA1///LILRB1,"leukocyte immunoglobulin-like receptor, subfamily A (with TM domain), member 1///leukocyte immunoglobulin-like receptor, subfamily B (with TM and ITIM domains), member 1",11024///10859
+2159,2626,28_24_1,0.194,0.0409,2.24262,-4.35208,0.7323166,JUNB,jun B proto-oncogene,3726
+2160,2627,27_6_6,0.195,0.041,2.2406535,-4.3555,0.6208219,TCTN3,tectonic family member 3,26123
+2161,2628,44_20_4,0.195,0.041,2.240182,-4.35632,0.5923731,SGCG,"sarcoglycan, gamma (35kDa dystrophin-associated glycoprotein)",6445
+2163,2634,51_9_5,0.195,0.0412,2.2377734,-4.36052,0.9086758,SPOCK1,"sparc/osteonectin, cwcv and kazal-like domains proteoglycan (testican) 1",6695
+2167,2642,24_21_1,0.196,0.0415,2.2341119,-4.36688,0.8902495,HEMGN,hemogen,55363
+2168,2643,46_25_7,0.196,0.0416,2.2330479,-4.36873,1.0065329,HIST1H2AC,"histone cluster 1, H2ac",8334
+2169,2644,59_13_2,0.196,0.0416,2.2330239,-4.36877,0.6685854,IGFBP1,insulin-like growth factor binding protein 1,3484
+2170,2645,51_25_5,0.196,0.0416,2.2326204,-4.36947,2.1754543,DDX4,DEAD (Asp-Glu-Ala-Asp) box polypeptide 4,54514
+2171,2646,7_9_1,0.196,0.0417,2.2323354,-4.36997,2.1941705,HTR3A,5-hydroxytryptamine (serotonin) receptor 3A,3359
+2172,2648,39_13_1,0.197,0.0418,2.2303461,-4.37343,0.6064758,ADSS,adenylosuccinate synthase,159
+2174,2650,5_29_1,0.197,0.0419,2.2296732,-4.37459,0.6727441,AZU1,azurocidin 1 (cationic antimicrobial protein 37),566
+2175,2653,2_30_1,0.198,0.0422,2.2255443,-4.38176,0.6180552,BRCA2,"breast cancer 2, early onset",675
+2179,2659,17_19_3,0.198,0.0422,2.2250913,-4.38255,0.6281153,HCP5,HLA complex P5,10866
+2180,2661,11_10_8,0.198,0.0423,2.2249504,-4.38279,0.7342841,CCDC109B,coiled-coil domain containing 109B,55013
+2182,2664,54_30_3,0.198,0.0424,2.2237078,-4.38495,0.71555,PBX3,pre-B-cell leukemia homeobox 3,5090
+2184,2668,9_30_6,0.198,0.0424,2.2225396,-4.38697,0.5905741,CDCA8,cell division cycle associated 8,55143
+2185,2669,60_20_7,0.198,0.0425,2.2224134,-4.38719,0.9353453,LY6E,"lymphocyte antigen 6 complex, locus E",4061
+2186,2670,9_30_1,0.198,0.0425,2.2222694,-4.38744,1.3268233,MYF6,myogenic factor 6 (herculin),4618
+2187,2671,27_3_8,0.199,0.0425,2.2216808,-4.38846,1.1569857,HLA-DQB2///HLA-DQB1,"major histocompatibility complex, class II, DQ beta 2///major histocompatibility complex, class II, DQ beta 1",3120///3119
+2188,2673,21_30_5,0.199,0.0425,2.2214163,-4.38892,0.7540481,TRAK2,"trafficking protein, kinesin binding 2",66008
+2190,2676,38_11_1,0.199,0.0426,2.2207857,-4.39001,1.4126941,RIT2,Ras-like without CAAX 2,6014
+2192,2679,39_6_2,0.199,0.0426,2.2202771,-4.39089,0.6948769,SOX3,SRY (sex determining region Y)-box 3,6658
+2193,2681,58_31_3,0.199,0.0427,2.2193647,-4.39247,0.8991391,CHST2,carbohydrate (N-acetylglucosamine-6-O) sulfotransferase 2,9435
+2200,2691,26_20_4,0.2,0.0432,2.2135999,-4.40246,0.8684316,HPS1,Hermansky-Pudlak syndrome 1,3257
+2202,2703,20_6_3,0.201,0.0436,2.2089885,-4.41043,0.7833924,CD83,CD83 molecule,9308
+2204,2705,41_24_7,0.201,0.0436,2.208761,-4.41083,0.8344698,PHLDA1,"pleckstrin homology-like domain, family A, member 1",22822
+2206,2713,28_9_5,0.202,0.0439,2.2051056,-4.41714,1.8906156,WISP1,WNT1 inducible signaling pathway protein 1,8840
+2207,2715,12_11_1,0.202,0.044,2.2036888,-4.41959,0.9352813,CHMP1A,chromatin modifying protein 1A,5119
+2211,2720,14_4_4,0.203,0.0443,2.2003592,-4.42534,0.8689364,TMEM59L,transmembrane protein 59-like,25789
+2214,2731,58_10_1,0.204,0.0446,2.1963296,-4.43228,1.0929436,KCNH2,"potassium voltage-gated channel, subfamily H (eag-related), member 2",3757
+2215,2733,3_9_1,0.204,0.0447,2.1952621,-4.43412,0.5042066,PTHLH,parathyroid hormone-like hormone,5744
+2219,2740,50_9_7,0.205,0.0451,2.1908763,-4.44168,1.0247562,GGT3///GGT1,gamma-glutamyltransferase 3///gamma-glutamyltransferase 1,2679///2678
+2225,2757,21_10_5,0.207,0.0458,2.1823233,-4.45639,0.5212244,DNAJC12,"DnaJ (Hsp40) homolog, subfamily C, member 12",56521
+2226,2760,43_27_3,0.208,0.0461,2.1794224,-4.46137,0.7309258,RNF8,ring finger protein 8,9025
+2227,2761,39_21_4,0.208,0.0461,2.1793573,-4.46149,1.6528518,CRLF1,cytokine receptor-like factor 1,9244
+2228,2762,24_18_1,0.208,0.0461,2.1788412,-4.46237,0.7054813,TAL1///STIL,T-cell acute lymphocytic leukemia 1///SCL/TAL1 interrupting locus,6886///6491
+2229,2763,35_30_1,0.208,0.0462,2.1783167,-4.46327,1.0075231,C19orf56,chromosome 19 open reading frame 56,51398
+2230,2764,49_17_7,0.208,0.0462,2.1780473,-4.46373,1.0132144,LOC643171,similar to Gamma-glutamyltranspeptidase 1 precursor (Gamma-glutamyltransferase 1) (CD224 antigen),643171
+2232,2766,59_15_4,0.209,0.0462,2.1774137,-4.46482,1.0969579,CCNA1,cyclin A1,8900
+2233,2768,23_20_3,0.209,0.0463,2.1770788,-4.4654,0.7437906,CD4,CD4 molecule,920
+2234,2771,58_4_5,0.209,0.0465,2.1747953,-4.46932,0.5769465,KRT16,keratin 16 (focal non-epidermolytic palmoplantar keratoderma),3868
+2237,2774,20_10_3,0.21,0.0467,2.1718165,-4.47442,0.6130603,DCX,"doublecortex; lissencephaly, X-linked (doublecortin)",1641
+2242,2783,22_10_4,0.212,0.0473,2.1659034,-4.48455,0.6064978,PCYT1B,"phosphate cytidylyltransferase 1, choline, beta",9468
+2245,2788,60_8_2,0.212,0.0474,2.1645973,-4.48679,0.7073226,NELL1,NEL-like 1 (chicken),4745
+2247,2792,32_8_1,0.212,0.0475,2.162884,-4.48972,1.0287042,THBS1,thrombospondin 1,7057
+2248,2793,11_26_5,0.212,0.0476,2.1624916,-4.49039,0.7453229,PCDHA6,protocadherin alpha 6,56142
+2252,2799,44_22_6,0.213,0.0477,2.1606171,-4.4936,0.8035924,CD109,CD109 molecule,135228
+2253,2800,10_25_1,0.213,0.0478,2.1602989,-4.49414,1.4760024,RET,ret proto-oncogene,5979
+2255,2803,34_23_7,0.213,0.0479,2.1591778,-4.49606,0.5489724,TP53INP1///TOP2B,tumor protein p53 inducible nuclear protein 1///topoisomerase (DNA) II beta 180kDa,94241///7155
+2256,2805,12_7_8,0.213,0.0479,2.1590771,-4.49623,0.8642869,KRT10,keratin 10 (epidermolytic hyperkeratosis; keratosis palmaris et plantaris),3858
+2257,2806,43_9_1,0.214,0.0482,2.1559453,-4.50158,1.0687834,RBP1,"retinol binding protein 1, cellular",5947
+2258,2808,3_5_5,0.214,0.0482,2.1555862,-4.50219,1.1237145,NPY,neuropeptide Y,4852
+2259,2810,16_10_4,0.214,0.0482,2.1548918,-4.50338,1.2170911,ASIP,"agouti signaling protein, nonagouti homolog (mouse)",434
+2260,2813,25_29_1,0.214,0.0483,2.1543426,-4.50432,0.7658335,SLC6A8///CLU,"solute carrier family 6 (neurotransmitter transporter, creatine), member 8///clusterin",6535///1191
+2261,2814,26_25_1,0.214,0.0483,2.1540438,-4.50483,0.5591473,MTR,5-methyltetrahydrofolate-homocysteine methyltransferase,4548
+2262,2815,50_9_2,0.214,0.0483,2.1538009,-4.50524,0.5135551,PAFAH1B3,"platelet-activating factor acetylhydrolase, isoform Ib, gamma subunit 29kDa",5050
+2264,2822,52_6_3,0.215,0.0485,2.1517535,-4.50874,0.778976,SMCP,sperm mitochondria-associated cysteine-rich protein,4184
+2265,2824,1_2_4,0.215,0.0486,2.1509577,-4.51009,0.6428019,MAPT,microtubule-associated protein tau,4137
+2266,2825,44_3_3,0.215,0.0486,2.1506632,-4.5106,0.8601808,SMPDL3A,"sphingomyelin phosphodiesterase, acid-like 3A",10924
+2268,2828,15_16_4,0.215,0.0488,2.1493684,-4.5128,0.5826357,PPEF2,"protein phosphatase, EF-hand calcium binding domain 2",5470
+2271,2832,51_31_1,0.215,0.0489,2.1478127,-4.51546,0.6334559,LTA,"lymphotoxin alpha (TNF superfamily, member 1)",4049
+2272,2837,30_23_1,0.216,0.0492,2.1449,-4.52042,0.9561905,WAS,Wiskott-Aldrich syndrome (eczema-thrombocytopenia),7454
+2275,2841,5_17_2,0.217,0.0493,2.1430502,-4.52357,0.8703612,H2AFX,"H2A histone family, member X",3014
+2278,2846,42_13_1,0.217,0.0494,2.1423295,-4.5248,0.6409751,ITGB5,"integrin, beta 5",3693
+2281,2852,56_31_5,0.217,0.0496,2.140284,-4.52828,0.9102398,ARMCX5///GPRASP1,"armadillo repeat containing, X-linked 5///G protein-coupled receptor associated sorting protein 1",64860///9737
+2282,2854,5_13_4,0.217,0.0496,2.140074,-4.52864,0.519203,DAP3,death associated protein 3,7818
+2285,2858,38_18_2,0.217,0.0498,2.1385472,-4.53123,0.5284242,STAM,signal transducing adaptor molecule (SH3 domain and ITAM motif) 1,8027
+2287,2864,59_12_2,0.217,0.0499,2.1373458,-4.53328,0.6186858,GBP2,"guanylate binding protein 2, interferon-inducible",2634
+2288,2865,33_14_1,0.217,0.0499,2.1372797,-4.53339,1.4909069,GNAS,GNAS complex locus,2778
+2289,2866,29_19_5,0.218,0.05,2.1363541,-4.53496,1.9639526,FLRT3,fibronectin leucine rich transmembrane protein 3,23767
