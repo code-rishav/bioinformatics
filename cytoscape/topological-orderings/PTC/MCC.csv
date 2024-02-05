@@ -1,0 +1,12 @@
+Top 10 in network string_interactions_short.tsv ranked by MCC method
+Rank,Name,Score
+1,IRS1,278.0
+2,FN1,274.0
+3,MET,265.0
+4,CCND1,254.0
+5,TGFA,243.0
+6,FGFR2,146.0
+7,BCL2,134.0
+8,DPP4,25.0
+9,PPARGC1A,13.0
+10,HMGA2,7.0

@@ -1,0 +1,12 @@
+Top 10 in network string_interactions_short.tsv ranked by MCC method
+Rank,Name,Score
+1,DCN,351.0
+2,MFAP4,320.0
+3,FBLN1,313.0
+4,COL14A1,288.0
+5,FBLN5,256.0
+6,DPT,146.0
+7,FBLN2,120.0
+8,PDGFRA,80.0
+9,IGF1,77.0
+10,C1R,42.0
